@@ -41,8 +41,26 @@ A jornada começa no limiar entre a vida e a morte...
 Ao abrir as portas para Limgrave, a imensidão das Terras Intermédias se revela.
 
 5.  **A Máscara Branca:** No "Primeiro Passo", fale com **Varré**. Ouça suas palavras sobre a falta de donzelas; ele é o fio condutor de uma jornada sangrenta.
+<p align="center">
+  <img src="assets/limgrave_03.png" alt="" width="600">
+  <br>
+  <em>Figura 3: Inicio da jornada</em>
+</p>
+
 6.  **O Refúgio de Elleh:** Siga para as ruínas da Igreja de Elleh. Conheça **Kalé**, o mercador nômade. Ele será seu primeiro aliado comercial.
+<p align="center">
+  <img src="assets/limgrave_04.png" alt="" width="600">
+  <br>
+  <em>Figura 4: Igreja de Elleh, Kalé o mercador nômade</em>
+</p>
+
 7.  **O Pacto do Destino:** Na "Frente do Portão", descanse. **Melina** aparecerá para lhe oferecer um acordo. Aceite-o para invocar **Torrente**, seu leal corcel, e colete o **Mapa (Limgrave, Oeste)** e a **Faca de Amolar** no acampamento vizinho.
+<p align="center">
+  <img src="assets/limgrave_05.png" alt="" width="600">
+  <br>
+  <em>Figura 5: Localizacao do Mapa (Limgrave, Oeste), para mostrar a àrea</em>
+</p>
+
 8.  **A Bruxa da Lua:** Retorne à Igreja de Elleh sob o manto da noite. A bruxa **Renna** o aguarda para entregar o Sino de Invocação Espiritual.
 
 ## III. Os Desajustados de Limgrave
