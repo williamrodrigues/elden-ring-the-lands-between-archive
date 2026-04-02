@@ -61,7 +61,24 @@ Ao abrir as portas para Limgrave, a imensidão das Terras Intermédias se revela
   <em>Figura 5: Localizacao do Mapa (Limgrave, Oeste), para mostrar a àrea</em>
 </p>
 
+<p align="center">
+  <img src="assets/limgrave_06.png" alt="" width="600">
+  <br>
+  <em>Figura 6: Falar com a Melina para aceitar o acordo para ela ser a donzela dos dedos</em>
+</p>
+
+<p align="center">
+  <img src="assets/limgrave_07.png" alt="" width="600">
+  <br>
+  <em>Figura 7: Pegar faca de amolar</em>
+</p>
+
 8.  **A Bruxa da Lua:** Retorne à Igreja de Elleh sob o manto da noite. A bruxa **Renna** o aguarda para entregar o Sino de Invocação Espiritual.
+<p align="center">
+  <img src="assets/limgrave_07.png" alt="" width="600">
+  <br>
+  <em>Figura 8: Falar com a bruxa</em>
+</p>
 
 ## III. Os Desajustados de Limgrave
 O mundo está cheio de almas perdidas clamando por auxílio sob a sombra da Térvore.
