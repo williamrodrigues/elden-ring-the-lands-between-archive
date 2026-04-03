@@ -260,3 +260,5 @@ Onde a chuva nunca para e as tragédias se multiplicam.
 </p>
 
 ---
+
+[🏠 Retornar ao Guia Principal](../README.md) | [🌊 Prosseguir para Stormveil Castle](../02_stormveil_castle/README.md)

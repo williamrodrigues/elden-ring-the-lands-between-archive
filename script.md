@@ -106,6 +106,20 @@
 
 
 
+* Apos derrotar o Godrick, falar com o Guardião Gostoc, depois ainda no castelo pegar o item "Lembrança de Crisálidas" para a Roderica, volte a mesa redonda e fale com todos(incluido Nepheli e Rogier), entre na sala do dois dedos e fale com leitora de dedos ela te dara um item por derrotar godrick
+
+* Volte para o primeiro passo verá que o Vrré saiu dali deixando um gesto
+
+* Volte para aonde derrotou o espirito da arvore havera uma marca de sangue toque nela vera o que aconteceu com Rogier, volte para a mesa redonda fale com ele e depois com a Fia
+
+* Volte para o local aonde derrotou o godrick e siga para pegar um item que será necessario para a quest da Hieta 
+
+* siga para ativar a grande runa de godrick
+
+
+
+
+
 
 
 12. Boss Morgit, caminho até Godrick, Crisálidas,  Semente dourada e Nepheli Loux
