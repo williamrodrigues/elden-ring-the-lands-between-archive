@@ -120,8 +120,6 @@
 
 
 
+* Ao sair do castelo na primeira graca ja tera 2 npcs o BOc e a Hieta converse com o boc para dar continuidade em sua quest e depois com a Hieta entregando o a uva de chabiri
 
-
-12. Boss Morgit, caminho até Godrick, Crisálidas,  Semente dourada e Nepheli Loux
-13. Grande runa do Godrick, Área escondida + quest do Rogier e semente dourada.
-14. Mesa redonda, Amuleto de arsenal e mapa dos facas negras
+* Antes de dar sequencia é muito bom liberar os dos mapas de lirnia para facilitar nas sequencia das quests 

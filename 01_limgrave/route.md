@@ -75,6 +75,7 @@ Ao abrir as portas para Limgrave, a imensidão das Terras Intermédias se revela
 </p>
 
 8.  **A Bruxa da Lua:** Retorne à Igreja de Elleh sob o manto da noite. A bruxa **Renna** o aguarda para entregar o Sino de Invocação Espiritual.
+> **Aviso de Sincronia:** Ao realizar o teleporte (viagem rápida), o jogo pode resetar o horário para o período diurno. Caso a bruxa não esteja presente, descanse na Graça e selecione **"Passar o tempo" -> "Até o anoitecer"**.
 <p align="center">
   <img src="assets/limgrave_08.png" alt="" width="600">
   <br>
@@ -261,4 +262,4 @@ Onde a chuva nunca para e as tragédias se multiplicam.
 
 ---
 
-[🏠 Retornar ao Guia Principal](../README.md) | [🌊 Prosseguir para Stormveil Castle](../02_stormveil_castle/README.md)
+[🏠 Retornar ao Guia Principal](../README.md) | [🌊 Prosseguir para Stormveil Castle](../02_stormveil_castle/route.md)

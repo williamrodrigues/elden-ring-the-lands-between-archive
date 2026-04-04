@@ -21,7 +21,7 @@ Para garantir a progressão perfeita, cada diretório deste guia cobre:
 
 ### 🟩 Fase 1: Início e Liurnia
 - [ ] [01. Limgrave & Península das Lágrimas](./01_limgrave/README.md)
-- [ ] 02. Stormveil Castle
+- [ ] [02. Stormveil Castle](./02_stormveil_castle/README.md)
 - [ ] 03. Liurnia of the Lakes
 - [ ] 04. Academy of Raya Lucaria
 

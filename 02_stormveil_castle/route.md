@@ -75,8 +75,8 @@ Com a queda de Godrick, os fios do destino começam a se entrelaçar. Não deixe
 <p align="center">
   <img src="assets/stormveil_castle_08.png" alt="Ativação da Grande Runa" width="600">
   <br>
-  <em>Figura 42: O Despertar do Poder. Com a Grande Runa restaurada, você agora possui o vigor necessário para enfrentar as névoas de Liurnia dos Lagos.</em>
+  <em>Figura 40: O Despertar do Poder. Com a Grande Runa restaurada, você agora possui o vigor necessário para enfrentar as névoas de Liurnia dos Lagos.</em>
 </p>
 
 ---
-[🏠 Retornar ao Guia Principal](../README.md) | [🌊 Prosseguir para Liurnia (Em breve)](#)
+[🏠 Retornar ao Guia Principal](../README.md) | [🌊 Prosseguir para Liurnia (Em breve)](../03_liurnia_of_the_lakes/route.md)
