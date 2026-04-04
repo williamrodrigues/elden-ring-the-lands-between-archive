@@ -79,4 +79,4 @@ Com a queda de Godrick, os fios do destino começam a se entrelaçar. Não deixe
 </p>
 
 ---
-[🏠 Retornar ao Guia Principal](../README.md) | [🌊 Prosseguir para Liurnia (Em breve)](../03_liurnia_of_the_lakes/route.md)
+[🏠 Retornar ao Guia Principal](../README.md) | [🌊 Prosseguir para Liurnia](../03_liurnia_of_the_lakes/route.md)

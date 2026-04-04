@@ -31,3 +31,7 @@ Liurnia é vasta e fácil de se perder entre os juncos e a névoa. Para uma nave
 
 > [!TIP]
 > **Estratégia de Exploração:** Com os mapas em mãos, você notará que Liurnia é dividida em três grandes faixas: a margem leste (estrada), o centro (pântano) e a margem oeste (falésias). Foque primeiro na margem leste para progredir nas missões iniciais de NPC.
+
+
+---
+[🏠 Retornar ao Guia Principal](../README.md) | [🌊 Prosseguir (Em breve)](../03_liurnia_of_the_lakes/route.md)
