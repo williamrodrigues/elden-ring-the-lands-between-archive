@@ -118,8 +118,91 @@
 
 
 
-
+LIURNIA
 
 * Ao sair do castelo na primeira graca ja tera 2 npcs o BOc e a Hieta converse com o boc para dar continuidade em sua quest e depois com a Hieta entregando o a uva de chabiri
 
 * Antes de dar sequencia é muito bom liberar os dos mapas de lirnia para facilitar nas sequencia das quests 
+
+* Passe na Igreja de Irith e fale com o Thops, ele vai te pedir ajuda com a chave da academia
+
+* Siga para falar com o Patches, lembre de ir acendendo as gracas no meio do caminho, fale com ele e ele dira para ajuda a Rya e tambem um historia que pode levar a mansao vulcanica
+
+* Fale com a Rya, ela te pedira um favor, seja gentil e ajude-a
+
+* Siga para negociar o colar com o Arruaceiro, ele te venderá por 1000 runas, não o mate pois pode interferir nas quest a seguir, depois de comprar o colar compre um camarao por 600 runas para dar continuidade a quest, continue falando ate ele te dar um gesto, volte e entregue o colar para a Rya
+
+* Siga para falar com o Diallos na Cidade do POrtao da Academia
+
+* Siga para falar com o Varré, ele vai te dar itens para invadir mundos, porem não é obrigatorio fazer esse momento, pois tem outra forma de fazer isso, sem ser no multiplayer
+
+* Liberar o 3 mapa de liurnia e depois seguir para o vila dos albinalricos, lembrando de teleportar para a graca mais proxima, para facilitar a caminhada
+
+* Ao chegar na vila fale com a Nephile, e depois com o albinaurico para lhe dar a metade do medalhao
+
+* Siga na ponte ao lada para enfretar um inimigo com a Nephile, pois ele lhe dara um talisma, faca um teleporte para graca da vila e confira se a Nephile nao esta ali, com isso pode voltar a mesa redonda, para falar com Diallos, Sabe tudo e Nephile
+
+* Siga para lutar com Edgar, o vingador, que ele ao derrotado dara a uva de shabirri
+
+* Siga para os 4 campanarios, abra o bau peque a chave de espada imbuida para abrir o portal, que nos levara para o boss do inicio do game, aonde no castelo tem duas cinzas(summon) falcao da tepestade Deenh e o rei falcao da tempestade e porfim dentro tem o item favor do lorde de sangue(pois depende do pano branco do Varré para aparecer)
+
+* Siga para falar com o gigante Iji que fica proximo da graca Entrada da Mansao, diga a ele que o Blaid te enviou
+
+* Siga para a Igreja da Inibinicao para enfrentar uma invasao Vike dos Dedos Feridos
+
+* Siga para a catacumbas das Facas Negras, aonde boss o faca negra que drop é o entalhe da faca negra e o outro boss que dara uma raiz da morte
+
+* Volte na mesa redonda para falar com o Rogier, aonde voce lhe dara o entalhe da faca negra e ele fala da Ranni e depois podemos falar com a Fia sobre o Rogier (lembrar usar o item que ela nos deu para nao ficar com debuffer)
+
+* Siga a catacumbra para enfrentar o cavaleiro do Cao de caça, que ao derrotar ele libera a passagem para falar com a Latenna, que esta ao lado de seu lobo e que da o drop de sua invocacao dela para usar na batalha
+
+
+ACADEMIA RAYA LUCARIA
+
+* Siga para pegar a chave pedrilhante da academia, que fica atraz do dragrao 
+
+* Siga para a igreja de irith para para falar com Thops, ele nao vai a querer a minha chave, ele vai querer a segunda quando encontrar
+
+* Siga para conversar com a Hieta, proximo a Ruinas purificadas, que na ruina tem mais uma uva de shabirri, doe para ela mais uma uva de sahbiri
+
+* Siga para falar com ela mais a frente para dar a ultima uva e falar que nao era uva e sim olhos humanos, depois ela ficará com ansia, nesse momento volte para graca mais proxima, fale com ela novamente e ela falara que vai querer se tornar uma donzela dos dedos
+
+* Siga para a igreja da bellum para falar com a Hieta e de a uva dactilar 
+
+* Siga para a igreja dos votos e faler com o Miriel e depois abra o bau pois o item sera necessario para o quest do Boc
+
+* Siga para falar com a Ranni, passando pela mansao Caria, enfrentando a Lorreta e o dragrao deixando ele com a metade da vida ele desaparecerá, para enfrenta-lo mais a frente
+
+* Fale com a Ranni na torre Pedrilhante de Ranni dizendo o Rogier enviou, ela vai te mandar embora, vá até a meda redonda fale com o Rogier, volte para falar com a Ranni e todos dentro da torre na sequencia, por ultimo fale com ela ate ela dormir
+
+* Siga para a torre do Seluvis, ele te dará uma pocao
+
+* Siga para falar com a Pidia, aondo pode comprar alguns itens, depois volte para mesa redonda e fale com o Rogier, fique teleportando para mesa redonda ate ele de o drop dos seus itens, junto de uma carta
+
+* Siga o portao portao principal da academia para ajudar Yura contar o assassino do Monte do corvo, para dar sequencia a sua quest e fale com o Yura apos a luta.
+
+* Siga para a academia, enfrente o Lobo vermelho de Ragagon
+
+* Siga para pegar a segunda chave da academia, depois enfrentar o cavalheiro Moongrum, cavalheiro cariano que fica na porta da Renalla.
+
+* Antes de enfrentar a Renalla, volte para igreja de Irith e entregue a chave para ele, siga para a graca Sala de aula da escola para coletar os itens dele pois ele foi morto e por fim volte na igreja para poder pegar mais uma cinza de guerra
+
+* Siga para Raia Lucaria para derrotar a Renalla
+
+* Siga para o Poço do Rio Siofra em Limgrave, desça o elevador, pegue o mapa libere os pontos de gracas e acenda todos as fogueira pois precisa para derrotar o boss que tem uma conquista para platina
+
+* Siga para falar com o Blaid, depois segue para a torre do Seluvis para falar com ele que ele dará um item para entregar para feiticeira Sellen
+
+* Siga para falar com a feiticeira Sellen no porao arruinado em Limgrave, feito isso volte para falar com o Blaidd no Rio Siofra
+
+* Siga para a Mesa redonda, aonde iremos falar com a Fia, que entregara um adaga, que daremos para o D, faz um teleporte para a mesa redonda para recarregar a area, aonde encontraremos o D morte na sala proximo ao ferreiro com a Fia do Lado, falamos com ela a mesma sumir e por fim fale com a Leitora de dedo Enia para ganhar mais uma bolsa de talisma
+
+* 
+
+
+
+
+
+
+
+
