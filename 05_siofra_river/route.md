@@ -9,6 +9,8 @@ Nesta rota, cruzaremos o destino de quatro NPCs fundamentais (**Ranni, Blaidd, S
 
 ---
 
+## VII. O Firmamento Subterrâneo o Rio Siofra
+
 28. **Invasão à Mansão Caria e o Pacto das Três Irmãs:**
 
     * **O Confronto na Mansão:** Atravesse o pátio infestado de mãos e suba os níveis da mansão até a área do jardim circular.
