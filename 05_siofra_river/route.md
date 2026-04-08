@@ -72,4 +72,4 @@ Nesta rota, cruzaremos o destino de quatro NPCs fundamentais (**Ranni, Blaidd, S
 
 
 ---
-[🏠 Retornar ao Guia Principal](../README.md) |  [🔥 Prosseguir para Caelid (Em breve)](#)
+[🏠 Retornar ao Guia Principal](../README.md) |  [🔥 Prosseguir para Caelid](../06_caelid/route.md)

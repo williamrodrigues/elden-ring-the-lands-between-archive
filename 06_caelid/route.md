@@ -82,14 +82,38 @@ Esta etapa é dividida em três atos para evitar o backtracking desnecessário.
       <em>Figura 36: A Recuperação. Coletar a Lágrima Sagrada aqui é vital para o upgrade final dos seus frascos.</em>
     </p>
 
+* **Ato IV: Retorno à Cabana e Desbloqueio de Feitiços**
+    * **Gowry:** Volte à Cabana do Gowry. Ele agora estará disponível como mercador, vendendo feitiçarias de Sellia.
+    * **Interação Extra:** Se você recarregar o jogo novamente na cabana, encontrará Millicent lá no lugar dele. Fale com ela para avançar o diálogo de despedida dela de Caelid.
+    * **Próximo Passo:** Com a quest "estacionada" aqui, você está livre para seguir para o **Castelo da Juba Vermelha** e enfrentar o Radahn.
+    <p align="center">
+      <img src="assets/caelid_33.png" alt="Retorno à Cabana do Gowry" width="600">
+      <br>
+      <em>Figura 33: O Hub de Quests. Reencontrar os NPCs aqui confirma que você completou 100% das interações de Caelid antes do Festival.</em>
+    </p>
 
-### 37. O Festival de Radahn (Conclusão da Etapa)
-* **[🏆 PLATINA] Flagelo Estelar Radahn:** Entre pelo portal da Grande Ponte. Invoque os aliados (Blaidd e Alexander) e derrote o Semideus.
-* **O Meteoro:** A vitória dispara o evento que abre o caminho para **07. Nokron**.
+
+### 37. O Festival de Radahn (O Clímax)
+
+Para garantir o 100%, siga rigorosamente os diálogos abaixo:
+
+**I. Diálogos Pré-Combate (No Pátio):**
+* Fale com **Blaidd**, **Alexander** e **Therolina** (esta última garante o gesto "Curvatura Educada").
+* Fale com Jerren no topo para iniciar o festival.
+
+**II. [🏆 PLATINA] O Confronto:**
+* Use as marcas de invocação na arena e derrote o **Flagelo Estelar Radahn**. A vitória dispara a queda do meteoro em Limgrave.
+
+**III. Diálogos Pós-Combate (Na Arena):**
+* **Blaidd:** Fale com ele para marcar o encontro na cratera da Floresta Nebulosa.
+* **Alexander:** Fale com o jarro até ele esgotar o diálogo sobre se consertar com os restos dos guerreiros.
+
 <p align="center">
-  <img src="assets/radahn_festival_37.png" alt="Combate contra Radahn" width="600">
+  <img src="assets/caelid_37.png" alt="Festival de Radahn Concluído" width="600">
   <br>
-  <em>Figura 37: O Destino das Estrelas. A derrota de Radahn é o marco final de Caelid antes de descermos para a Cidade Eterna.</em>
+  <em>Figura 37: O Destino das Estrelas. A queda do meteoro encerra esta fase e abre oficialmente o diretório 07_nokron.</em>
 </p>
 
 ---
+
+[🏠 Retornar ao Guia Principal](../README.md) |  [☄️ Prosseguir para Nokron a cidade eterna](../07_nokron_eternal_city/route.md)
