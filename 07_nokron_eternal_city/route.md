@@ -227,6 +227,16 @@ Antes de buscar a Luz Estelar Âmbar, aproveitaremos a estadia para liberar a vi
   <em>Figura 54: Portões da Capital. Liberar este mapa agora revela toda a periferia de Leyndell, facilitando a navegação futura no Ato 12.</em>
 </p>
 
+* **Mapa 3: Monte Gelmir (Oeste)**
+    * **Localização:** A partir do Platô Altus, siga para o norte passando por **Dominula** (Vilarejo dos Moinhos de vento) e contorne o desfiladeiro para o oeste, atravessando a ponte de pedra.
+    * **O Monólito:** O fragmento de mapa está localizado em um pilar na estrada ascendente que leva à Mansão Vulcânica, logo após passar pela área dos soldados e o cerco.
+    * **[👥 NPC] Rya:** Localize a Rya próximo ao telescópio no Platô Altus antes de seguir. Se você ajudou ela em Liurnia, ela te dará o convite da Mansão, marcando o local no seu mapa recém-desbloqueado.
+<p align="center">
+  <img src="assets/nokron_55.png" alt="Localização do Mapa de Gelmir" width="600">
+  <br>
+  <em>Figura 55: O Terreno Vulcânico. Com este terceiro fragmento, você remove totalmente o 'fog of war' do Norte, preparando o terreno para a fase final da quest de Alexander.</em>
+</p>
+
 
 ### 54. [🎯 ALVO] Localização da Luz Estelar Âmbar (Amber Starlight)
 Este é o objetivo central do nosso desvio técnico para garantir o item perdível do Seluvis.
@@ -235,9 +245,9 @@ Este é o objetivo central do nosso desvio técnico para garantir o item perdív
 * **O Item:** A **Luz Estelar Âmbar** estará em um pequeno altar diante de uma estátua.
 * **⚠️ IMPORTANTE:** Assim que coletar o item, **NÃO AVANCE** para Leyndell ou o moinho de vento se quiser manter o script da Ranni intacto. Use o teletransporte para voltar a Liurnia.
 <p align="center">
-  <img src="assets/nokron_55.png" alt="Coletando a Luz Estelar Âmbar" width="600">
+  <img src="assets/nokron_56.png" alt="Coletando a Luz Estelar Âmbar" width="600">
   <br>
-  <em>Figura 55: A Chave de Seluvis. Com este item em mãos, o Amuleto de Escorpião Mágico está garantido.</em>
+  <em>Figura 56: A Chave de Seluvis. Com este item em mãos, o Amuleto de Escorpião Mágico está garantido.</em>
 </p>
 
 ---
