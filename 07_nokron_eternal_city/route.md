@@ -240,3 +240,6 @@ Este é o objetivo central do nosso desvio técnico para garantir o item perdív
   <em>Figura 55: A Chave de Seluvis. Com este item em mãos, o Amuleto de Escorpião Mágico está garantido.</em>
 </p>
 
+---
+
+[🏠 Retornar ao Guia Principal](../README.md) |  [🌙 Prosseguir para Rio Ainsel](../08_ainsel_river/route.md)
