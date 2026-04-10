@@ -22,14 +22,14 @@ Para garantir a progressão perfeita, cada diretório deste guia cobre:
 ### 🟩 Fase 1: Início e Liurnia
 - [ ] [01. Limgrave & Península das Lágrimas](./01_limgrave/README.md)
 - [ ] [02. Stormveil Castle](./02_stormveil_castle/README.md)
-- [ ] 03. Liurnia of the Lakes
-- [ ] 04. Academy of Raya Lucaria
+- [ ] [03. Liurnia of the Lakes](./03_liurnia_of_the_lakes/README.md)
+- [ ] [04. Academy of Raya Lucaria](./04_academy_of_raya_lucaria/README.md)
 
 ### 🟦 Fase 2: O Caminho Subterrâneo & Caelid
-- [ ] 05. Siofra River
-- [ ] 06. Ainsel River
-- [ ] 07. Nokron, Eternal City
-- [ ] 08. Caelid (Festival de Radahn)
+- [ ] [05. Siofra River](./05_siofra_river/README.md)
+- [ ] [06. Caelid (Festival de Radahn)](./06_caelid/README.md)
+- [ ] [07. Nokron, Eternal City](./07_nokron_eternal_city/README.md)
+- [ ] [08. Ainsel River](./08_ainsel_river/README.md)
 - [ ] 09. Deeproot Depths
 
 ### 🟨 Fase 3: O Platô e a Capital
@@ -39,8 +39,8 @@ Para garantir a progressão perfeita, cada diretório deste guia cobre:
 
 ### ⬜ Fase 4: O Fim do Caminho
 - [ ] 13. Mountaintops of the Giants
-- [ ] 14. Crumbling Farum Azula
-- [ ] 15. Miquella's Haligtree
+- [ ] 14. Miquella's Haligtree
+- [ ] 15. Crumbling Farum Azula
 
 ---
 > *"Levante-se, Maculado, e que a graça te guie."*

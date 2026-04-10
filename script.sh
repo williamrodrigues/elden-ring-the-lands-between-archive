@@ -14,8 +14,8 @@ diretories=(
     '11_volcano_manor'
     '12_leyndell_royal_capital'
     '13_mountaintops_of_the_giants'
-    '14_crumbling_farum_azula'
-    '15_miquellas_haligtree'
+    '14_miquellas_haligtree'
+    '15_crumbling_farum_azula'
 )
 
 # Create directories if they don't exist
