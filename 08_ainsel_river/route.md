@@ -87,14 +87,79 @@ Após atravessar as pontes de Nokstella e pegar o elevador no fundo da cidade, v
   <em>Figura 62: Anel da Lua Sombria.</em>
 </p>
 
-### 62. O Mar Vermelho: Lago de Podridão
-Este é um dos lugares mais perigosos do jogo devido à Podridão Escarlate.
 
-* **Mecânica:** Pise nos botões para erguer plataformas. Se não tiver itens de cura, use o feitiço "Chama, Limpe-me".
-* **O Caixão:** No final da área (Grande Claustro), entre no caixão na beira da cachoeira.
+### 62. Exploração do Lago de Podridão (Checklist de Itens)
+Chegando proximo da graça "Margem do Lago da Podridão", proximo a margem tem o mapa "Lago da Podridão". Este local é um teste de resistência. Antes de prosseguir para o caixão, certifique-se de coletar o seguinte:
+<p align="center">
+  <img src="assets/ainsel_62.png" alt="Anel da Lua Sombria" width="600">
+  <br>
+  <em>Figura 63: Anel da Lua Sombria.</em>
+</p>
+
+#### ⚔️ Chefes de Área
+* **Soldado Draconiano (Dragonkin Soldier):** Encontra-se no meio do lago. Derrotá-lo concede a **Espada de Escama de Dragão**.
+* **Espírito de Árvore Ulcerado:** Localizado no Grande Claustro (área final antes do caixão). Dropa uma **Semente Dourada**.
+
+#### 🎒 Itens Importantes
+- [ ] **Talismã de Chifre de Imunidade +1:** Aumenta muito sua resistência à podridão. Encontrado em um corpo no "mar" de líquido vermelho.
+- [ ] **Manual de Guerreiro Nômade [22]:** Em uma ruína no canto sudoeste.
+- [ ] **Lírio de Luva Fantasma [9]:** Existem vários espalhados pelo Grande Claustro. Não saia sem eles para upar sua Mimic Tear.
+- [ ] **Adaga de Escorpião (Stinger):** Em um baú dentro de uma estrutura no Grande Claustro.
+
+---
+
+### 63. [🏆 PLATINA] O Chefe: Astel, Filho Natural da Escuridão
+Após entrar no caixão na beira da cachoeira, você chegará à arena de um dos chefes mais icônicos do jogo.
+
+* **Localização:** Além do Grande Claustro.
+* **Estratégia:** Astel usa ataques de gravidade e um raio de energia logo na entrada. Fique perto da cabeça para causar dano massivo, mas cuidado com o ataque de "agarre" (teletransporte).
+* **Recompensa:** **Lembrança do Filho Natural** e o **Troféu de Platina: Astel, Filho Natural da Escuridão**.
 
 <p align="center">
-  <img src="assets/lake_of_rot.png" alt="Atravessando o Lago de Podridão" width="600">
+  <img src="assets/ainsel_63.png" alt="Chefe Astel" width="600">
   <br>
-  <em>Figura 62: A imensidão de podridão. O caixão no final é o seu único bilhete de saída para o Boss.</em>
+  <em>Figura 63: Astel. Derrotar este ser estelar é o requisito final para acessar o Altar Lunar e concluir a quest da Ranni.</em>
 </p>
+
+---
+
+
+### 64. O Caminho para o Altar Lunar
+Após derrotar Astel, o caminho estará bloqueado por uma barreira mágica.
+* **O Selo:** A barreira só abrirá se você tiver o **Anel da Lua Sombria** (coletado no passo 61, no baú da Rennala).
+* **Ação:** Pegue o elevador atrás da arena do boss para finalmente emergir na montanha acima de Liurnia.
+
+---
+
+
+### 65. Altar Lunar: O Platô das Estrelas
+Ao subir o elevador após a arena do Astel, você chegará ao Altar Lunar, uma área de Liurnia anteriormente inacessível.
+
+* **Localização:** Sul de Liurnia (topo da montanha).
+* **Aviso de Combate:** O dragão **Adula** aparecerá na frente da catedral. Você pode lutar com ele para obter o feitiço "Lâmina da Lua de Adula" ou simplesmente correr para dentro da igreja para ativar a Graça.
+
+
+### 66. Catedral de Manus Celes e a Espada Grande da Lua Sombria
+Este é o ponto final da missão da Princesa Lunar.
+
+* **Ação:** Dentro da catedral, à direita da Graça, há um buraco no chão. Desça com cuidado usando as plataformas.
+* **O Casamento Real:** Encontre o corpo de Ranni e selecione a opção de "Usar o Anel da Lua Sombria".
+* **[🏆 PLATINA] Recompensa Lendária:** Após a cena, a Ranni desaparecerá e deixará em seu lugar a **Espada Grande da Lua Sombria** (Dark Moon Greatsword).
+    * *Nota:* Esta é uma das 9 armas lendárias necessárias para o troféu de colecionador.
+
+<p align="center">
+  <img src="assets/ainsel_64.png" alt="Espada Grande da Lua Sombria" width="600">
+  <br>
+  <em>Figura 64: O Selo do Destino. Ao obter esta espada, você garante um dos itens mais difíceis da platina e desbloqueia o final "Era das Estrelas".</em>
+</p>
+
+### 67. Consequências: O Destino de Blaidd e Iji
+Agora que Ranni partiu para o seu destino nas estrelas, as histórias de seus conselheiros chegam ao fim.
+
+* **Blaidd:** Volte para a entrada da **Ascensão de Ranni** (Ranni's Rise). Blaidd estará lá, mas perdeu o juízo. 
+    * *Resultado:* Você precisará derrotá-lo. Ele deixará o **Set de Armadura do Blaidd** e sua **Espada Grande Real**. (O capacete de lobo é encontrado em um corpo no muro da torre de Seluvis).
+* **Iji:** Vá falar com o ferreiro Iji e conte sobre a morte de Blaidd. Após descansar na Graça, Iji terá um destino trágico, permitindo que você colete seu **Sino** e seu **Elmo de Espelho**.
+
+---
+
+[⬅️ Voltar para o Arquivo Principal](../README.md) | [🚩 Prosseguir par Profundezas da Raiz Profunda](../09_deeproot_depths/route.md)
