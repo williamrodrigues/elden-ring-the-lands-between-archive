@@ -398,156 +398,156 @@ O melhor talismã defensivo para resistir a danos de raio (extremamente útil pa
 
 ---
 
-## 🏺 29. Quest em Jarrosburgo (Localização)
-Uma vila secreta e pacífica habitada por jarros vivos (guerreiros em treinamento). 
+## 29. Quest no jarrosburgo (localizacao)
+breve descricao , lore e o que pode aconter.
 
-* **Item:** Vários materiais de criação (Ramo de Sorveira, Flores, etc).
-* **Dica:** Fica em Liurnia. Para acessar, vá até a "Sala de Estudos Carianos" e siga para o sul pela beirada do penhasco. Olhe para baixo e desça cuidadosamente usando as lápides gigantes presas na parede da montanha.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_01.png" alt="Localização de Jarrosburgo" width="600">
+    <img src="assets/jarrosburgo_01.png" alt="" width="600">
     <br>
-    <em>Figura 28: A descida pelas lápides para acessar a vila secreta.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## 🍯 30. Jarrosburgo: Conhecendo o Jarrinho (Jar Bairn)
-O Jarrinho é o sobrinho de Alexander e sonha em ser um guerreiro.
+## 30. Quest no jarrosburgo conversar com o jarrinho sentado
+breve descricao , lore e o que pode aconter.
 
-* **Item:** Nenhum neste momento.
-* **Dica:** Ele está sentado nos degraus de uma cabana. Ele perguntará se você quer ser o "Potentado" (líder da vila). Diga que sim, mas ele recusará dizendo que suas mãos "não são lisas o suficiente".
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_02.png" alt="Jar Bairn" width="600">
+    <img src="assets/jarrosburgo_02.png" alt="" width="600">
     <br>
-    <em>Figura 29: O pequeno Jarrinho sentado nos degraus de sua casa.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## 🗣️ 31. Jarrosburgo: A chegada do novo Potentado
-Avance a quest recarregando a área na Graça e conversando com o Jarrinho várias vezes.
+## 31. Quest no jarrosburgo conversar com ele ate falar do Daillos ficar recarregando a area
+breve descricao , lore e o que pode aconter.
 
-* **Item:** Nenhum.
-* **Dica:** Faça isso até que ele mencione que um "novo Potentado" chegou à vila. *Nota: A quest de Diallos na Mansão Vulcânica precisa estar concluída (ou a Mansão desfeita) para que ele venha para cá.*
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_03.png" alt="Diálogo Jarrinho" width="600">
+    <img src="assets/jarrosburgo_03.png" alt="" width="600">
     <br>
-    <em>Figura 30: Esgotando as opções de diálogo com o Jarrinho.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## 🛡️ 32. Jarrosburgo: Diallos cuidando dos Jarros
-Diallos Hoslow finalmente encontrou um lugar onde se sente útil e em paz, cuidando dos pequenos jarros.
+## 32. Quest no jarrosburgo conversar com o Daillos ajudando os jarrinhos
+breve descricao , lore e o que pode aconter.
 
-* **Item:** Nenhum.
-* **Dica:** Encontre Diallos no centro da vila, curvado trabalhando com os jarros. Converse com ele; ele dirá que é um tolo, mas que finalmente sente que está fazendo algo bom.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_04.png" alt="Diallos em Jarrosburgo" width="600">
+    <img src="assets/jarrosburgo_04.png" alt="" width="600">
     <br>
-    <em>Figura 31: Diallos Hoslow trabalhando pacificamente na vila.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## 🔥 33. Jarrosburgo: O Ataque dos Caçadores
-Avance o tempo e recarregue a área algumas vezes. Eventualmente, você notará que a vila foi atacada e destruída por Caçadores de Jarros.
+## 33. Quest no jarrosburgo, recarregue o jogo ate o jarrinho sair de lugar e fale com ele
+breve descricao , lore e o que pode aconter.
 
-* **Item:** Nenhum.
-* **Dica:** O Jarrinho não estará mais nos degraus. Ele estará no chão, ferido, mas vivo. Fale com ele para entender o que aconteceu.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_05.png" alt="Vila Atacada" width="600">
+    <img src="assets/jarrosburgo_05.png" alt="" width="600">
     <br>
-    <em>Figura 32: As consequências do ataque dos caçadores à vila pacífica.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## 🩸 34. Jarrosburgo: O Sacrifício de Diallos
-Diallos lutou bravamente para proteger a vila, mas sofreu ferimentos letais no processo.
+## 34. Quest no jarrosburgo, va ate ao Daillos que esta morrendo
+breve descricao , lore e o que pode aconter.
 
-* **Item:** Nenhum.
-* **Dica:** Vá até Diallos caído no centro da vila. Ele perguntará, com seu último suspiro, se ele conseguiu defender os jarros. Responda **"Você os defendeu"** para que ele morra em paz como o herói que sempre quis ser.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_06.png" alt="Morte de Diallos" width="600">
+    <img src="assets/jarrosburgo_06.png" alt="" width="600">
     <br>
-    <em>Figura 33: As últimas palavras do homem que encontrou sua coragem.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## 🏺 35. Jarrosburgo: O Luto do Jarrinho
-Recarregue a área novamente na Graça e retorne ao local onde Diallos estava.
+## 35. Quest no jarrosburgo, recarregue e o jarrinho estara ao lado do corpo do Diallos
+breve descricao , lore e o que pode aconter.
 
-* **Item:** Nenhum.
-* **Dica:** O Jarrinho estará ao lado do corpo de Diallos, absorvendo seus restos mortais para carregar a força do Potentado consigo. Fale com ele.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_07.png" alt="Jarrinho e Diallos" width="600">
+    <img src="assets/jarrosburgo_07.png" alt="" width="600">
     <br>
-    <em>Figura 34: O rito de passagem dos guerreiros jarro.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## ⚔️ 36. Jarrosburgo: O Legado de Alexander
-Recarregue a área. O Jarrinho voltará aos degraus originais. É a hora de concluir a jornada dele.
+## 36. Quest no jarrosburgo, dar as entranhas de Alexander para o Jarrinho
+breve descricao , lore e o que pode aconter.
 
-* **Item (Entrega):** Entregue as **Entranhas de Alexander** (obtidas ao derrotar Alexander em Farum Azula).
-* **Dica:** Ao receber as entranhas do tio, o Jarrinho ganha a coragem definitiva para partir de Jarrosburgo e se tornar um verdadeiro guerreiro.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_08.png" alt="Entregando Entranhas" width="600">
+    <img src="assets/jarrosburgo_08.png" alt="" width="600">
     <br>
-    <em>Figura 35: Passando a tocha (e as entranhas) para a nova geração.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## 🎁 37. Jarrosburgo: O Saque de Diallos
-Onde o corpo de Diallos repousava, agora ficam seus equipamentos.
+## 37. Quest no jarrosburgo, pegar os itens do Diallos
+breve descricao , lore e o que pode aconter.
 
-* **Item:** **Máscara de Diallos**, **Chicote de Pétalas de Hoslow** e uma **Runa de Numen**.
-* **Dica:** Ter um segundo Chicote de Pétalas de Hoslow é excelente para builds de sangramento usando *Power Stance* (empunhadura dupla).
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_09.png" alt="Loot Diallos" width="600">
+    <img src="assets/jarrosburgo_09.png" alt="" width="600">
     <br>
-    <em>Figura 36: A armadura e a arma deixadas pelo herói da vila.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## ✨ 38. Jarrosburgo: A Despedida (Talismã Lendário)
-Recarregue a área uma última vez. O Jarrinho terá partido para sua jornada, deixando um último presente para você.
+## 38. Quest no jarrosburgo, pegar o talismã do jarro companheiro
+breve descricao , lore e o que pode aconter.
 
-* **Item:** **Talismã do Jarro Companheiro** (Companion Jar).
-* **Dica:** Fica no chão onde ele costumava sentar. Este talismã aumenta o dano de todos os potes/frascos arremessáveis em 20%. Fim emocionante da questline.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/jarrosburgo_10.png" alt="Talismã do Jarro" width="600">
+    <img src="assets/jarrosburgo_10.png" alt="" width="600">
     <br>
-    <em>Figura 37: A recompensa final pela ajuda prestada em Jarrosburgo.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
 
-## ⏳ 39. Caminho para o Lorde Dragão Placidusax
-O acesso ao chefe secreto não é feito por portas de névoa convencionais, mas sim voltando no tempo.
+## 39. Lorde Dragão Placidusax [🏆 PLATINA], va para a graca lateral da grande ponte e ...
+* **Localização:** Partindo da ponte antes do Maliketh, desça pelos escombros flutuantes até encontrar nichos vazios no chão. Aproxime-se e escolha a opção "Deitar-se".
 
-* **Localização:** Partindo da Graça "Lateral da Grande Ponte" (antes do Maliketh), desça pelo elevador. Saia do templo e vá para a beira do penhasco em frente, olhando para baixo. Pule cuidadosamente pelos escombros flutuantes.
-* **Dica:** Desça até a plataforma final flutuando no tornado. Aproxime-se do nicho vazio no chão, sem esqueleto, e escolha a opção "Deitar-se". A cutscene o levará de volta no tempo.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/farum_azula_15.png" alt="Caminho Placidusax" width="600">
+    <img src="assets/farum_azula_15.png" alt="" width="600">
     <br>
-    <em>Figura 38: Deitando-se no epicentro da tempestade atemporal.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
@@ -555,33 +555,33 @@ O acesso ao chefe secreto não é feito por portas de névoa convencionais, mas 
 ## 🐉 40. Lorde Dragão Placidusax [🏆 PLATINA]
 O chefe secreto de Farum Azula. Um antigo Lorde de duas cabeças que aguarda no epicentro da tempestade, isolado do tempo.
 
-* **Item:** **Lembrança do Lorde Dragão**.
-* **Dica de Lore/Mecânica:** Este é o **único lugar do jogo** onde você pode usar a "Agulha de Miquella" (concluindo a quest da Millicent) para curar a Chama Frenética do seu corpo, caso queira evitar o final caótico. Na Fase 2, quando ele desaparecer no ar, trave a câmera (lock-on) rapidamente no céu para desviar de seu rasante sônico.
+* **Loot:** Lembrança do Lorde Dragão.
+* **Dica de Lore/Mecânica:** Este é o **único lugar do jogo** onde você pode usar a Agulha de Miquella para curar a Chama Frenética.
 
 <p align="center">
     <img src="assets/farum_azula_16.png" alt="Placidusax Boss" width="600">
     <br>
-    <em>Figura 39: O confronto atemporal contra o lorde dragão original.</em>
+    <em>Figura : O confronto atemporal contra o lorde dragão original.</em>
 </p>
 
 <p align="center">
-    <img src="assets/farum_azula_17.png" alt="Lembrança Placidusax" width="600">
+    <img src="assets/farum_azula_17.png" alt="Placidusax Boss" width="600">
     <br>
-    <em>Figura 40: A lembrança do lorde dragão derrotado.</em>
+    <em>Figura : item lembranca do lorde dragao.</em>
 </p>
 
 ---
 
-## 🛡️ 41. Sentinela da Árvore Dracônico (Ponte Final)
-Guardião implacável posicionado logo antes da porta de névoa do chefe Maliketh.
+## 41. Set do dragao malformado, na porta do boss indo pela graca lateral da grande ponte
+breve descricao , lore e o que pode aconter.
 
-* **Item:** **Conjunto de Armadura do Dragão Malformado** (Set completo).
-* **Dica:** Diferente dos outros, este Sentinela **não respawna** após ser morto. Ele lança relâmpagos mortais e tem muito HP. Use o pilar na rampa para se defender dos projéteis de fogo dele. Se achar muito difícil, você pode passar correndo diretamente para a névoa do Maliketh.
+    ** Item
+    ** Dica
 
 <p align="center">
-    <img src="assets/farum_azula_18.png" alt="Sentinela Dracônico" width="600">
+    <img src="assets/jarrosburgo_18.png" alt="" width="600">
     <br>
-    <em>Figura 41: O último obstáculo antes do embate contra a Morte.</em>
+    <em>Figura : .</em>
 </p>
 
 ---
@@ -615,6 +615,26 @@ Atenção especial caso você utilize itens arremessáveis e perfumes, pois Leyn
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🐺 42. Maliketh, a Lâmina Negra [🏆 PLATINA]
 A sombra emial de Marika e o guardião da Runa da Morte. A conclusão desta luta muda o mundo permanentemente.
 
@@ -622,9 +642,9 @@ A sombra emial de Marika e o guardião da Runa da Morte. A conclusão desta luta
 * **Atenção:** Derrotar Maliketh queima a Térvore e transforma Leyndell na Capital das Cinzas. Todas as quests não finalizadas lá serão perdidas.
 
 <p align="center">
-    <img src="assets/farum_azula_19.png" alt="Maliketh Boss" width="600">
+    <img src="assets/farum_azula_16.png" alt="Maliketh Boss" width="600">
     <br>
-    <em>Figura 42: Libertando o Destino da Morte nas Terras Intermédias.</em>
+    <em>Figura 29: Libertando o Destino da Morte nas Terras Intermédias.</em>
 </p>
 
 ---
