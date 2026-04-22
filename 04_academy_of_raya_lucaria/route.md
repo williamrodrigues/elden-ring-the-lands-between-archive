@@ -12,6 +12,7 @@ Focado na invasão da Academia, confronto com o Lobo Vermelho e Rennala.
   <em>Figura 17: Localização da Chave de Pedrilhante</em>
 </p>
 
+---
 
 24. **A Peregrinação Final de Hyetta:**
     Para progredir na linhagem dos Três Dedos, você deve encontrar Hyetta em três locais distintos de Liurnia após o encontro inicial no penhasco.
@@ -39,6 +40,7 @@ Focado na invasão da Academia, confronto com o Lobo Vermelho e Rennala.
       <em>Figura 20: O Selo de Digitais. Com esta entrega, a jornada de Hyetta em Liurnia se completa, aguardando o encontro final nos esgotos da Capital.</em>
     </p>
 
+---
 
 25. **Igreja dos Votos (Miriel):** Localizada no alto do platô leste de Liurnia. Encontre o **Miriel, Pastor dos Votos**, a tartaruga gigante que guarda o conhecimento sobre as linhagens de Rennala e Radagon.
     * *Absolvição:* Aqui você pode usar Orvalho Celestial na estátua para remover a agressividade de NPCs caso tenha atacado algum por engano.
@@ -52,6 +54,7 @@ Focado na invasão da Academia, confronto com o Lobo Vermelho e Rennala.
   <em>Figura 21: O Guardião dos Segredos. Miriel oferece perdão e conhecimento, enquanto o baú ao fundo guarda as ferramentas necessárias para a redenção do Alfaiate Boc.</em>
 </p>
 
+---
 
 26. **Auxílio a Yura (O Caçador de Dedos Sangrentos):** Após usar a Chave de Pedrilhante para atravessar o selo principal da Academia, não siga direto para o elevador. Caminhe pela ponte em direção ao norte (atravessando o selo azul sem interagir com ele).
     * *O Confronto:* Localize a **marca de invocação vermelha** no chão. Você será transportado para o mundo de Yura para ajudá-lo a derrotar o Assassino de Ravenmount.
@@ -66,6 +69,7 @@ Focado na invasão da Academia, confronto com o Lobo Vermelho e Rennala.
 > [!CAUTION]
 > **Aviso de Localização:** A marca de invocação fica um pouco "escondida" após o primeiro selo. Certifique-se de olhar para o chão na parte metálica da ponte antes de seguir para a floresta ou para o elevador da Academia.
 
+---
 
 27. **A Ascensão de Raya Lucaria:**
     A invasão à Academia exige atenção aos detalhes arquitetônicos para não perder itens de progressão de quest.
@@ -90,7 +94,6 @@ Focado na invasão da Academia, confronto com o Lobo Vermelho e Rennala.
 
 > [!IMPORTANT]
 > **Checklist de Retorno:** Assim que coletar a segunda chave, teleporte-se para a Igreja de Irith e entregue-a para Thops **antes** de enfrentar a Rennala. Isso garante que o script do NPC siga para o próximo passo corretamente.
-
 
 ---
 [🏠 Retornar ao Guia Principal](../README.md) | [🌌 Prosseguir para O Destino nas Estrelas Subterrâneas: Ranni e o Rio Siofra](../05_siofra_river/route.md)

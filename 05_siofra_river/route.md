@@ -32,10 +32,12 @@ Nesta rota, cruzaremos o destino de quatro NPCs fundamentais (**Ranni, Blaidd, S
     * **A Torre de Ranni:** Siga para a torre central. Suba o elevador e fale com **Ranni**. Jure lealdade. (Nota: Se você falou com Rogier anteriormente, mencione o interesse dele).
     * **Protocolo de Saída:** Para que a barreira mágica da torre desapareça, desça e fale com as projeções de **Iji**, **Seluvis** e **Blaidd**. Volte ao topo, fale com Ranni até ela entrar em sono profundo e a saída será liberada.
 
+---
 
 29. **A Trama de Seluvis e o Fim de Rogier:** Pegue a poção com Seluvis. 
     * Na Mesa-Redonda, fale com Rogier. Repita o ciclo de teleporte e descanso até ele entrar em sono profundo e deixar seu set completo e uma carta de despedida.
 
+---
 
 30. **O Abismo do Rio Siofra e a Pista de Nokron:** A jornada subterrânea começa na Floresta Nebulosa. Esta área é crucial para a progressão da Ranni e para a conquista de Platina do Espírito Ancestral.
 
@@ -62,14 +64,15 @@ Nesta rota, cruzaremos o destino de quatro NPCs fundamentais (**Ranni, Blaidd, S
   <em>Figura 29: O Lobo em Impasse. Blaidd é o seu guia nesta etapa; sem este diálogo, a quest da Ranni não avança para a fase de Caelid.</em>
 </p>
 
+---
 
 31. **O Plano de Sellen:** Leve a carta de Seluvis para a feiticeira **Sellen** em Limgrave. Leve a resposta de volta para Blaidd no Rio Siofra. O próximo passo é o Festival de Radahn.
 
+---
 
 32. **A Tragédia de D e Fia:** Fale com Fia na Mesa-Redonda, entregue a adaga para **D**. Teleporte para fora e volte. 
     * Encontre o corpo de D na sala após o ferreiro. Fale com Fia e colete os itens. 
     * Fale com Enia para receber a **Bolsa de Talismã** final desta etapa.
-
 
 ---
 [🏠 Retornar ao Guia Principal](../README.md) |  [🔥 Prosseguir para Caelid](../06_caelid/route.md)

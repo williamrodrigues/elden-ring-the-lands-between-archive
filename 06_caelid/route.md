@@ -18,6 +18,7 @@ Esta rota foi planejada para otimizar a coleta de itens de upgrade e a progress�
   <em>Figura 30: Cartografia do Horror. Liberar os mapas permite localizar pontos de interesse como o Forte Faroth e a Igreja da Praga com precisão.</em>
 </p>
 
+---
 
 ### 34. O Item de Platina: Escaravelho de Ouro
 * **Localização:** Vá até a **Caverna Abandonada** (centro do desfiladeiro, acessível por galhos de árvore).
@@ -29,6 +30,7 @@ Esta rota foi planejada para otimizar a coleta de itens de upgrade e a progress�
   <em>Figura 31: O Talismã da Prosperidade. Item obrigatório para colecionadores e essencial para o farm que faremos a seguir.</em>
 </p>
 
+---
 
 ### 35. O Grande Farm (Dragão Greyoll)
 * **Localização:** Siga para o **Forte Faroth** no Montículo dos Dragões.
@@ -40,6 +42,7 @@ Esta rota foi planejada para otimizar a coleta de itens de upgrade e a progress�
   <em>Figura 32: O Salto de Nível. Com este montante de runas, você poderá elevar seus atributos para enfrentar o Festival de Radahn sem dificuldades.</em>
 </p>
 
+---
 
 ### 36. A Agulha de Ouro e a Quest de Millicent
 Esta etapa é dividida em três atos para evitar o backtracking desnecessário.
@@ -92,6 +95,7 @@ Esta etapa é dividida em três atos para evitar o backtracking desnecessário.
       <em>Figura 33: O Hub de Quests. Reencontrar os NPCs aqui confirma que você completou 100% das interações de Caelid antes do Festival.</em>
     </p>
 
+---
 
 ### 37. O Festival de Radahn (O Clímax)
 

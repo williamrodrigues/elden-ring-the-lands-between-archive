@@ -16,6 +16,7 @@ A saída dos fundos do Castelo Vento Ligeiro revela a vastidão azul de Liurnia.
   <em>Figura 1: O Horizonte de Liurnia. No penhasco inicial, o destino de Boc e a jornada de Hyetta começam a se entrelaçar sob a sombra da Academia.</em>
 </p>
 
+---
 
 ## II. Cartografia das Águas
 Liurnia é vasta e fácil de se perder entre os juncos e a névoa. Para uma navegação eficiente, priorize a recuperação dos mapas antes de explorar as ruínas.
@@ -35,6 +36,8 @@ Liurnia é vasta e fácil de se perder entre os juncos e a névoa. Para uma nave
 > [!TIP]
 > **Estratégia de Exploração:** Com os mapas em mãos, você notará que Liurnia é dividida em três grandes faixas: a margem leste (estrada), o centro (pântano) e a margem oeste (falésias). Foque primeiro na margem leste para progredir nas missões iniciais de NPC.
 
+---
+
 
 ## III. O Círculo de Proscritos e a Academia
 A travessia pelo pântano revela almas em busca de redenção e mercadores de intenções duvidosas.
@@ -47,7 +50,8 @@ A travessia pelo pântano revela almas em busca de redenção e mercadores de in
   <br>
   <em>Figura 3: Localização da Igreja de Irith </em>
 </p>
-    
+
+---    
 
 6.  **O Retorno de Patches:** Encontre o infame **Patches** na "Ilha Panorâmica". Ele o informará sobre a Mansão Vulcânica e mencionará um método peculiar (e perigoso) de chegar lá através da Donzela de Ferro no fundo de Raya Lucaria.
 <p align="center">
@@ -56,6 +60,7 @@ A travessia pelo pântano revela almas em busca de redenção e mercadores de in
   <em>Figura 4: O Conselho do Trapaceiro. Patches continua sendo um guia ambíguo, mas suas pistas sobre a Mansão Vulcânica são o início de uma grande subtrama.</em>
 </p>
 
+---
 
 7.  **A Mensageira Rya:** Próximo ao telescópio do pântano, encontre **Rya**, a recrutadora da Mansão Vulcânica. Ela foi roubada e solicita que você recupere seu colar valioso.
     * *Postura de Maculado:* Seja gentil e aceite ajudá-la. Esta é a porta de entrada para uma das áreas mais complexas do jogo.    
@@ -65,6 +70,7 @@ A travessia pelo pântano revela almas em busca de redenção e mercadores de in
   <em>Figura 5: Rya, a recrutadora da Mansão Vulcânica</em>
 </p>
 
+---
 
 8.  **Negociações na Cabana do Camarão Cozido:** Siga para o noroeste até encontrar o **Arruaceiro**. 
     * *Ação Crítica de 100%:* **NÃO O MATE.** Compre o colar de Rya por 1000 runas. 
@@ -80,6 +86,8 @@ A travessia pelo pântano revela almas em busca de redenção e mercadores de in
 > [!CAUTION]
 > **Aviso de Ordem:** Certifique-se de comprar o camarão do Arruaceiro **antes** de avançar muito na quest da Mansão Vulcânica. Criar o laço de amizade com ele agora é o que garante a presença dele em Leyndell mais tarde.
 
+---
+
 
 9.  **O Lamento de Diallos:** Na "Cidade do Portão da Academia", você encontrará o nobre **Diallos** sobre um telhado, lamentando a morte de Lanya. 
     * *Nota de Quest:* Este encontro move a história da Casa Hoslow e se conecta diretamente com a Mansão Vulcânica.  
@@ -89,6 +97,7 @@ A travessia pelo pântano revela almas em busca de redenção e mercadores de in
   <em>Figura 7: O Lamento de Diallos</em>
 </p>
 
+---
 
 10. **A Igreja da Rosa (Varré da Máscara Branca):** Encontre Varré na estrutura em ruínas no pântano a oeste da Academia. Ele questionará sua visão sobre os Dois Dedos.
     * *Dica de Suporte:* Varré entregará os Dedos Sangrentos Purulentos. 
@@ -99,6 +108,7 @@ A travessia pelo pântano revela almas em busca de redenção e mercadores de in
   <em>Figura 8: A Igreja da Rosa (Varré da Máscara Branca).</em>
 </p>
 
+---
 
 11. **O Domínio Geográfico Completo:** Cavalgue em direção à margem oeste do lago para localizar o terceiro e último pilar de mapeamento da região.
     * **Mapa (Liurnia, Oeste):** Localizado na estrada que sobe em direção às falésias ocidentais. Com este fragmento, toda a bacia de Liurnia estará revelada no seu mapa.
@@ -109,6 +119,7 @@ A travessia pelo pântano revela almas em busca de redenção e mercadores de in
   <em>Figura 9: Mapeamento e Sangue. A revelação do setor oeste permite localizar com precisão a entrada para a Vila dos Albinaúricos.</em>
 </p>
 
+---
 
 ## IV. As Sombras da Vila dos Albinaúricos
 Um local de tragédia e segredos guardados por disfarces.
@@ -131,6 +142,7 @@ Um local de tragédia e segredos guardados por disfarces.
   <em>Figura 10: O Segredo de Haligtree. Entre o lamento de Nepheli e o disfarce de Albus, esconde-se a chave para as terras consagradas. Proteja o medalhão a todo custo.</em>
 </p>
 
+---
 
 15. **O Julgamento do Presságio e o Retorno a Mesa Redonda:** Atravesse a ponte de pedra ao lado de onde encontrou Albus para enfrentar o **Presságio Assassino (Omenkiller)**.
     * *Combate Aliado:* Invoque **Nepheli Loux** para a batalha. Ao derrotá-lo, você obterá o **Talismã de Nó do Crisol**.
@@ -154,6 +166,7 @@ Um local de tragédia e segredos guardados por disfarces.
   <em>Figura 11: O Fim de uma Promessa. A dor da perda transformou o Castelão Edgar em um invasor implacável. A uva colhida aqui é o selo final de sua tragédia.</em>
 </p>
 
+---
 
 ## V. O Legado de Caria e as Sombras de Liurnia
 Antes de invadir a Academia, é necessário consolidar as alianças com os servos de Ranni e encerrar pendências nas catacumbas para garantir os itens de Platina.
@@ -168,6 +181,7 @@ Antes de invadir a Academia, é necessário consolidar as alianças com os servo
   <em>Figura 12: O Retorno às Origens. O Rei Falcão é o item que restaurará a vontade de lutar de Nepheli Loux.</em>
 </p>
 
+---
 
 19. **O Conselheiro Iji:** Siga para o norte até a Graça "Estrada para a Mansão". Fale com o gigante Iji e mencione que **Blaidd** o enviou para liberar itens exclusivos.
 
@@ -177,6 +191,7 @@ Antes de invadir a Academia, é necessário consolidar as alianças com os servo
   <em>Figura 13: O Conselheiro Iji</em>
 </p>
 
+---
 
 20. **Igreja da Inibição (Quest da Hyetta):** Prepare-se para o acúmulo de Loucura. Enfrente a invasão de **Vyke dos Dedos Feridos**. 
     * *Drop Crítico:* Ele derruba a **Uva Dactilar**, necessária para a fase final da Hyetta.
@@ -187,6 +202,7 @@ Antes de invadir a Academia, é necessário consolidar as alianças com os servo
   <em>Figura 14: Igreja da Inibição</em>
 </p>
 
+---
 
 21. **Catacumbas das Facas Negras:** * **O Auxílio do Caçador:** Para o boss principal desta masmorra, você pode invocar o NPC **D, Caçador dos Mortos**. O sinal dourado dele estará disponível logo à frente da névoa, facilitando o controle de grupo contra os mortos-vivos.
     * *Boss Oculto:* Assassino da Faca Negra (atrás de uma parede ilusória no andar de cima). Drop: **Entalhe da Faca Negra**. (Nota: O sinal de D não alcança esta área oculta).
@@ -197,6 +213,7 @@ Antes de invadir a Academia, é necessário consolidar as alianças com os servo
   <em>Figura 15: Justiça dos Mortos. Invocar D nesta catacumba não só facilita a batalha como reforça a lore de caçador de mortos-vivos do NPC.</em>
 </p>
 
+---
 
 22. **O Juramento de Latenna:** Atravesse a "Caverna de Cristal à Beira-lago" até encontrar **Latenna** ao lado de seu lobo. Mostre a ela a metade do Medalhão Secreto de Albus para que ela se torne sua cinza de invocação.
 <p align="center">

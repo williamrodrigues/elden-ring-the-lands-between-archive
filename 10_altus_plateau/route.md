@@ -105,6 +105,8 @@ Após sair de Caelid, Millicent estará esperando por você no Platô Altus.
   <em>Figura 6: Localização da Millicent.</em>
 </p>
 
+---
+
 ### 2. O Castelo Sombreado (The Shaded Castle)
 Para ajudá-la, você precisa de uma prótese que está guardada em um castelo ao norte.
 
@@ -116,6 +118,8 @@ Para ajudá-la, você precisa de uma prótese que está guardada em um castelo a
   <br>
   <em>Figura 7: Localização da Prótese dentro do Castelo Sombreado.</em>
 </p>
+
+---
 
 ### 3. [⚔️ BOSS LENDÁRIO] Elemer do Espinheiro (Elemer of the Briar)
 * **Localização:** No topo da torre central do castelo.
@@ -159,7 +163,6 @@ Ao sair do castelo (ou nos arredores do lado de fora, na área oeste/noroeste), 
 </p>
 
 ---
-
 
 ## 🏰 Etapa 5: Infiltração em Leyndell (Sentinela, Boc e Dung Eater)
 

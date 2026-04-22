@@ -19,6 +19,8 @@ Antes de descer pela cratera, você notará que Blaidd não apareceu no ponto de
   <em>Figura 38: Lealdade Testada. Libertar Blaidd aqui revela a tensão entre o destino da Ranni e a sanidade de seus seguidores.</em>
 </p>
 
+---
+
 ### 39. A Cratera na Floresta Nebulosa
 * **Localização:** Siga para o sul do **Forte Haight**, na Floresta Nebulosa (Limgrave).
 * **A Descida:** Você verá uma enorme cratera cercada por rochas flutuantes. Desça com cuidado usando o Torrent pelas plataformas de pedra.
@@ -43,6 +45,7 @@ Antes de descer pela cratera, você notará que Blaidd não apareceu no ponto de
   <em>Figura 40: Reflexo de Guerra. A Lágrima Mimética é uma das cinzas de invocação mais poderosas do jogo (Troféu de Platina).</em>
 </p>
 
+---
 
 ### 41. Ativação dos Pilares e o Espírito Ancestral
 Antes de entrar na área urbana, explore o **Floresta Ancestral**. Existem **6 pilares** de fogo que devem ser acesos para liberar o acesso ao Boss opcional da região.
@@ -55,6 +58,7 @@ Antes de entrar na área urbana, explore o **Floresta Ancestral**. Existem **6 p
   <em>Figura 41: Ritual de Fogo. A ativação dos pilares é o requisito técnico para desbloquear o combate no subsolo.</em>
 </p>
 
+---
 
 ### 42. Otimização de Build: Lâmina de Amolar Preta
 Ao iniciar a descida pelos telhados da **Terra Sagrada da Noite**, você encontrará uma das ferramentas de "configuração" mais importantes para builds de dano de estado.
@@ -67,6 +71,7 @@ Ao iniciar a descida pelos telhados da **Terra Sagrada da Noite**, você encontr
   <em>Figura 42: Customização Avançada. Este item permite que armas comuns escalem com Arcano, otimizando o dano de Sangramento.</em>
 </p>
 
+---
 
 ### 43. [🏆 PLATINA] Cinzas da Lágrima Imitadora (Mimic Tear)
 Abaixo dos telhados, você encontrará uma barreira de névoa que exige uma **Chave de Espada de Pedra** para ser aberta.
@@ -79,6 +84,7 @@ Abaixo dos telhados, você encontrará uma barreira de névoa que exige uma **Ch
   <em>Figura 43: O Espelho de Guerra. As cinzas da Mimic Tear são o recurso definitivo para enfrentar chefes de alta dificuldade.</em>
 </p>
 
+---
 
 ### 44. [🏆 PLATINA] Faca Matadora de Dedos (Fingerslayer Blade)
 Este é o ponto de conclusão da exploração urbana de Nokron e o item que permite o avanço do "script" da Ranni.
@@ -91,6 +97,7 @@ Este é o ponto de conclusão da exploração urbana de Nokron e o item que perm
   <em>Figura 44: O Destino em Mãos. A obtenção da Faca Matadora de Dedos conclui a missão principal na Cidade Eterna.</em>
 </p>
 
+---
 
 ### 45. Logística de Quest: O Pote de Óleo para Alexander
 Antes de prosseguir para o Aqueduto, é necessário garantir a ferramenta para a próxima etapa da quest do **Alexander (Punho de Ferro)**.
@@ -104,6 +111,7 @@ Antes de prosseguir para o Aqueduto, é necessário garantir a ferramenta para a
   <em>Figura 45: Preparação de Suporte. Garantir esta receita agora é um passo técnico que evita backtracking futuro na quest do Alexander.</em>
 </p>
 
+---
 
 ### 46. Travessia para o Aqueduto de Siofra
 Com todos os itens de Nokron e a receita de óleo coletados, siga para a transição final deste mapa.
@@ -137,6 +145,7 @@ Após o Festival de Radahn, o Alexander se move para Liurnia dos Lagos, mas acab
   <em>Figura 47: Lubrificação Necessária. O uso do Pote de Óleo é o requisito de script para avançar a quest do Guerreiro Jarro sem feri-lo gravemente.</em>
 </p>
 
+---
 
 ### 48. Recompensa e Próximo Destino
 * **Diálogo:** Fale com ele após ele sair do buraco. Ele agradecerá e mencionará que pretende ir para o norte, para um lugar onde possa "se temperar" no calor.
@@ -148,6 +157,7 @@ Após o Festival de Radahn, o Alexander se move para Liurnia dos Lagos, mas acab
   <em>Figura 48: O Caminho do Guerreiro. Com a ajuda do óleo, Alexander segue sua jornada rumo às terras vulcânicas.</em>
 </p>
 
+---
 
 ### 49. Jarrosburgo (O Vilarejo dos Vasos)
 Aproveitando a proximidade com o local onde Alexander estava preso, desça para o vilarejo escondido no penhasco. Este local é um porto seguro para os potes e fundamental para a conclusão da questline dos guerreiros jarros.
@@ -162,6 +172,7 @@ Aproveitando a proximidade com o local onde Alexander estava preso, desça para 
   <em>Figura 49: Recanto de Paz. Ativar esta Graça agora facilita o acesso futuro para as quests de Diallos e Jar-Bairn que se conectam com o Alexander.</em>
 </p>
 
+---
 
 ### 50. Coleta de Recursos em Jarrosburgo
 A vila é rica em materiais raros que não tentam te matar, o que é uma raridade em Elden Ring.
@@ -177,7 +188,6 @@ A vila é rica em materiais raros que não tentam te matar, o que é uma raridad
 
 ---
 
-
 ## XIII. A Ascensão ao Platô (Rota Alternativa)
 
 ### 51. Ruína do Penhasco (Ruin-Strewn Precipice)
@@ -192,6 +202,7 @@ Para evitar a busca pelas medalhas do Elevador de Dectus, seguiremos pelo desfil
   <em>Figura 51: Escalada Vertical. Esta rota é a preferida por desenvolvedores para acessar o Platô Altus cedo e coletar materiais de upgrade.</em>
 </p>
 
+---
 
 ### 52. Chefe: Dragão de Magma Makar (Magma Wyrm Makar)
 No topo das ruínas, você encontrará o guardião da passagem para o Platô Altus.
@@ -205,6 +216,7 @@ No topo das ruínas, você encontrará o guardião da passagem para o Platô Alt
   <em>Figura 52: O Guardião do Platô. Derrotar Makar libera o acesso definitivo às terras douradas sem depender de medalhões.</em>
 </p>
 
+---
 
 ### 53. Cartografia de Altus (Mapeamento Expresso)
 Antes de buscar a Luz Estelar Âmbar, aproveitaremos a estadia para liberar a visão total da região. Isso evita que você se perca no "fog of war" enquanto completa os gatilhos da quest.
@@ -237,6 +249,7 @@ Antes de buscar a Luz Estelar Âmbar, aproveitaremos a estadia para liberar a vi
   <em>Figura 55: O Terreno Vulcânico. Com este terceiro fragmento, você remove totalmente o 'fog of war' do Norte, preparando o terreno para a fase final da quest de Alexander.</em>
 </p>
 
+---
 
 ### 54. [🎯 ALVO] Localização da Luz Estelar Âmbar (Amber Starlight)
 Este é o objetivo central do nosso desvio técnico para garantir o item perdível do Seluvis.

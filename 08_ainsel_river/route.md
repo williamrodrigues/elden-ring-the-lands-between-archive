@@ -22,12 +22,16 @@ Antes de entregar a Luz Estelar Âmbar, você deve resolver a pendência da poç
   <em>Figura 57: Locakuzação do porão secreto.</em>
 </p>
 
+---
+
 ### 56. Gestão de Espólios
 Mesmo que o Seluvis encontre seu fim prematuro, você deve coletar os Sinos para centralizar as compras na Mesa-Redonda:
 
 * **Sino de Seluvis:** Coletado no corpo dele na base de sua torre após o avanço da quest de Ranni. Permite comprar os feitiços de prelazia com as Gêmeas Idosas.
 * **Sino da Pidia:** Localizado no nível superior da Mansão Caria (acesse pulando dos penhascos perto das Três Irmãs). 
     * *Dica:* Se Pidia estiver morta, colete o sino em seu corpo para comprar cinzas de guerra e itens de aprimoramento raros.
+
+---
 
 ### 57. O Portal da Torre de Renna
 Com a partida de Ranni, a barreira mágica da torre ao norte das Três Irmãs desaparece.
@@ -42,6 +46,7 @@ Com a partida de Ranni, a barreira mágica da torre ao norte das Três Irmãs de
   <em>Figura 58: Salto nas Profundezas. Este portal é o único acesso para a fase final da questline da Princesa Lunar.</em>
 </p>
 
+---
 
 ### 58. A Boneca Silenciosa
 Não saia correndo! O progresso da quest depende de um detalhe mecânico específico nas fogueiras.
@@ -50,6 +55,7 @@ Não saia correndo! O progresso da quest depende de um detalhe mecânico especí
 * **Mecânica:** Selecione a opção **"Falar com a Ranni Miniatura"**.
 * **Repetição:** Você deve clicar nesta opção **3 vezes**. Na terceira, ela finalmente responderá, desbloqueando os diálogos necessários para caçar o Assassino das Sombras.
 
+---
 
 ### 59. Nokstella e o Fragmento de Mapa
 Ao descer o elevador ou atravessar o portal, você estará no leito do rio. Antes de subir a cidade, você precisa de visão da área.
@@ -64,6 +70,8 @@ Ao descer o elevador ou atravessar o portal, você estará no leito do rio. Ante
   <em>Figura 59: Localização do Fragmento de Mapa. Não avance para o Lago de Podridão sem ele.</em>
 </p>
 
+---
+
 ### 60. O Duelo com o Assassino das Sombras
 Após atravessar as pontes de Nokstella e pegar o elevador no fundo da cidade, você chegará a uma caverna com tons avermelhados.
 
@@ -76,6 +84,8 @@ Após atravessar as pontes de Nokstella e pegar o elevador no fundo da cidade, v
   <em>Figura 60: O Assassino das Sombras. Cuidado com o debuff de Destino da Morte (barra preta e vermelha).</em>
 </p>
 
+---
+
 ### 61. O Anel da Lua Sombria (Checkpoint em Liurnia)
 **IMPORTANTE:** Você não consegue terminar a quest se esquecer este passo.
 
@@ -87,6 +97,7 @@ Após atravessar as pontes de Nokstella e pegar o elevador no fundo da cidade, v
   <em>Figura 62: Anel da Lua Sombria.</em>
 </p>
 
+---
 
 ### 62. Exploração do Lago de Podridão (Checklist de Itens)
 Chegando proximo da graça "Margem do Lago da Podridão", proximo a margem tem o mapa "Lago da Podridão". Este local é um teste de resistência. Antes de prosseguir para o caixão, certifique-se de coletar o seguinte:
@@ -123,7 +134,6 @@ Após entrar no caixão na beira da cachoeira, você chegará à arena de um dos
 
 ---
 
-
 ### 64. O Caminho para o Altar Lunar
 Após derrotar Astel, o caminho estará bloqueado por uma barreira mágica.
 * **O Selo:** A barreira só abrirá se você tiver o **Anel da Lua Sombria** (coletado no passo 61, no baú da Rennala).
@@ -131,13 +141,13 @@ Após derrotar Astel, o caminho estará bloqueado por uma barreira mágica.
 
 ---
 
-
 ### 65. Altar Lunar: O Platô das Estrelas
 Ao subir o elevador após a arena do Astel, você chegará ao Altar Lunar, uma área de Liurnia anteriormente inacessível.
 
 * **Localização:** Sul de Liurnia (topo da montanha).
 * **Aviso de Combate:** O dragão **Adula** aparecerá na frente da catedral. Você pode lutar com ele para obter o feitiço "Lâmina da Lua de Adula" ou simplesmente correr para dentro da igreja para ativar a Graça.
 
+---
 
 ### 66. Catedral de Manus Celes e a Espada Grande da Lua Sombria
 Este é o ponto final da missão da Princesa Lunar.
@@ -152,6 +162,8 @@ Este é o ponto final da missão da Princesa Lunar.
   <br>
   <em>Figura 64: O Selo do Destino. Ao obter esta espada, você garante um dos itens mais difíceis da platina e desbloqueia o final "Era das Estrelas".</em>
 </p>
+
+---
 
 ### 67. Consequências: O Destino de Blaidd e Iji
 Agora que Ranni partiu para o seu destino nas estrelas, as histórias de seus conselheiros chegam ao fim.
