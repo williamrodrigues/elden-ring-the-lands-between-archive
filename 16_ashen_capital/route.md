@@ -201,7 +201,7 @@ O embate final. Duas lutas seguidas, sem checkpoint entre elas. Você lutará de
 - [ ] **Espadão das Ruínas:** (Castelo Redmane) Recompensa do Boss Fight pós-Radahn.
 - [ ] **Espada de Execução de Marais:** (Castelo Sombrio) Drop de Elemer dos Espinhos.
 - [ ] **Lança de Gransax:** (Leyndell - Pré-Cinzas) Localizada na lança gigante. **[PERDÍVEL]**
-- [ ] **Espadão da Ordem Áurea:** (Campo de Neve) Caverna dos Desamparados.
+- [ ] **Espada Grande da Ordem Áurea:** (Campo de Neve) Caverna dos Desamparados.
 - [ ] **Shotel do Eclipse:** (Castelo Sol) No altar da Igreja do Eclipse.
 - [ ] **Cetro do Devorador:** (Farum Azula) Drop do Recusante Bernahl após invasão.
 

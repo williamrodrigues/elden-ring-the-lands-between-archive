@@ -174,4 +174,90 @@ Agora que Ranni partiu para o seu destino nas estrelas, as histórias de seus co
 
 ---
 
+## 🌟 68. O Legado de Ranni (Item Lendário)
+Siga para o sudoeste do Altar do Luar até a **Ascensão de Chelona** (Chelona's Rise) para buscar o conhecimento máximo da princesa.
+
+**Descrição:** O selo da torre exige a resolução do enigma das "três bestas sábias". Você deve localizar e golpear três tartarugas gigantes espirituais espalhadas pelo Altar do Luar. 
+
+**Importante:** Para que as tartarugas apareçam, interaja com a estátua próximo à porta da torre e siga com o Torrent **sem utilizar o teleporte**, pois se você viajar rapidamente, elas resetam e você terá que ativar o selo na torre novamente.
+
+**Lore:** Este feitiço representa a lua gélida e oculta que guiou Ranni. Diferente da lua de sua mãe, Rennala, esta magia carrega o frio do cosmos e a promessa de uma jornada sob as estrelas.
+
+* **Item:** **Lua Sombria de Ranni [FEITIÇO LENDÁRIO]**.
+* **Dica:** As tartarugas estão em pontos distantes: uma atrás da torre no penhasco, uma ao leste em um desfiladeiro e a última flutuando sobre uma corrente de ar ao norte.
+
+<p align="center">
+  <img src="../inventory/sorceries/ranni_dark_moon_item.png" alt="Lua Sombria de Ranni" width="600">
+  <br>
+  <em>Figura 65: Atributos e descrição do Feitiço Lendário.</em>
+</p>
+
+<p align="center">
+    <img src="assets/ranni_dark_moon_01.png" alt="Localização Altar Sul" width="600">
+    <br>
+    <em>Figura 66: Localização inicial no Altar Sul e a estátua do enigma.</em>
+</p>
+
+<p align="center">
+    <img src="assets/ranni_dark_moon_02.png" alt="Mapa das Tartarugas" width="600">
+    <br>
+    <em>Figura 67: Localização da primeira tartaruga (Penhasco atrás da torre).</em>
+</p>
+
+<p align="center">
+    <img src="assets/ranni_dark_moon_03.png" alt="Tartaruga 01" width="600">
+    <br>
+    <em>Figura 68: Detalhe da primeira tartaruga pendurada no despenhadeiro.</em>
+</p>
+
+<p align="center">
+    <img src="assets/ranni_dark_moon_04.png" alt="Tartaruga 01 Detalhe" width="600">
+    <br>
+    <em>Figura 69: Localização da segunda tartaruga (Flutuando no céu ao Norte).</em>
+</p>
+
+<p align="center">
+    <img src="assets/ranni_dark_moon_05.png" alt="Tartaruga 02" width="600">
+    <br>
+    <em>Figura 70: Detalhe da segunda tartaruga sobre a corrente de ar.</em>
+</p>
+
+<p align="center">
+    <img src="assets/ranni_dark_moon_06.png" alt="Tartaruga 02 Detalhe" width="600">
+    <br>
+    <em>Figura 71: Localização da terceira tartaruga (Patamar ao Leste).</em>
+</p>
+
+<p align="center">
+    <img src="assets/ranni_dark_moon_07.png" alt="Tartaruga 03" width="600">
+    <br>
+    <em>Figura 72: Detalhe da terceira tartaruga (Patamar ao Leste).</em>
+</p>
+
+<p align="center">
+    <img src="assets/ranni_dark_moon_08.png" alt="Coleta Final" width="600">
+    <br>
+    <em>Figura 73: Coleta do item no baú após a quebra do selo da torre.</em>
+</p>
+
+---
+
+## 69. Medalhão de Âmbar Cerúleo +2 (Stat Boost)
+Nas **Ruínas da Regência Lunar**, localizadas a nordeste da torre, encontra-se a versão mais poderosa deste medalhão.
+
+**Descrição:** O item está escondido em um porão selado por uma estátua de diabrete. Você precisará de uma **Chave de Espada de Pedra** para dissipar a névoa e acessar o baú.
+
+**Lore:** Um medalhão de âmbar que contém o brilho da vida primordial. Esta gema azul simboliza a mente e o espírito, sendo que a variante +2 representa o ápice do conhecimento que os eruditos da Academia de Raya Lucaria buscavam alcançar.
+
+* **Item:** **Medalhão de Âmbar Cerúleo +2**.
+* **Dica:** Este é o melhor talismã do jogo para aumentar sua barra de mana (FP). Como a *Lua Sombria de Ranni* consome muito FP, equipar este medalhão permite que você conjure a magia mais vezes antes de precisar usar um frasco.
+
+<p align="center">
+    <img src="../inventory/talismans/stat_boost/cerulean_amber_plus_2_loc.png" alt="Medalhão de Âmbar Cerúleo +2" width="600">
+    <br>
+    <em>Figura 74: Localização nas Ruínas da Regência Lunar e atributos do talismã.</em>
+</p>
+
+---
+
 [⬅️ Voltar para o Arquivo Principal](../README.md) | [🚩 Prosseguir par Profundezas da Raiz Profunda](../09_deeproot_depths/route.md)

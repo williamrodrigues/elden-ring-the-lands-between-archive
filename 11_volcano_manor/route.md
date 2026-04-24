@@ -176,11 +176,11 @@ Com Radahn derrotado, o castelo retorna ao seu estado "normal", revelando novos 
 
 ### B. [⚔️ BOSS] Guerreiro Bastardo & Cavaleiro do Crisol
 * **Localização:** Praça Principal do Castelo (agora com névoa de chefe).
-* **[🏆 PLATINA - ARMA LENDÁRIA]:** **Espada Grande de Ruínas** (Ruins Greatsword).
+* **[🏆 PLATINA - ARMA LENDÁRIA]:** **Espada Grande das Ruínas** (Ruins Greatsword).
     * *Status:* 1 de 9 Armas Lendárias coletada nesta etapa.
 
 <p align="center">
-  <img src="assets/volcano_manor_12.png" alt="Espada Grande de Ruínas" width="600">
+  <img src="assets/volcano_manor_12.png" alt="Espada Grande das Ruínas" width="600">
   <br>
   <em>Figura 12: Derrote a dupla dinâmica para coletar uma das armas mais pesadas da Platina.</em>
 </p>

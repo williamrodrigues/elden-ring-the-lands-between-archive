@@ -1,7 +1,6 @@
 # 🗺️ Rota de Navegação: Academia de Raya Lucaria
 Focado na invasão da Academia, confronto com o Lobo Vermelho e Rennala.
 
-
 ## VI. Raya Lucaria: O Selo e a Ascensão de Rennala
 
 23. **A Chave de Pedrilhante:** Vá para a ilha a oeste da Academia. O item está no cadáver atrás do **Dragão Smarag**. (Dica: Você pode coletar e fugir sem lutar).
@@ -9,7 +8,7 @@ Focado na invasão da Academia, confronto com o Lobo Vermelho e Rennala.
 <p align="center">
   <img src="assets/liurnia_of_the_lakes_17.png" alt="" width="600">
   <br>
-  <em>Figura 17: Localização da Chave de Pedrilhante</em>
+  <em>Figura 17: Localização da Chave de Pedrilhante.</em>
 </p>
 
 ---
@@ -56,44 +55,77 @@ Focado na invasão da Academia, confronto com o Lobo Vermelho e Rennala.
 
 ---
 
-26. **Auxílio a Yura (O Caçador de Dedos Sangrentos):** Após usar a Chave de Pedrilhante para atravessar o selo principal da Academia, não siga direto para o elevador. Caminhe pela ponte em direção ao norte (atravessando o selo azul sem interagir com ele).
-    * *O Confronto:* Localize a **marca de invocação vermelha** no chão. Você será transportado para o mundo de Yura para ajudá-lo a derrotar o Assassino de Ravenmount.
-    * *Recompensa e Diálogo:* Após a vitória, você retornará ao seu mundo. Encontre Yura parado na ponte, esgote seus diálogos e receba as Cinzas de Guerra: **Névoa de Rapina**.
+26. **Mansão Caria: Espada da Noite e da Chama [LENDÁRIO]**
+Antes de avançar para a Academia, siga para o norte de Liurnia até a **Mansão Caria**. Esta arma é essencial para o troféu de colecionador de armas lendárias.
+
+**Descrição:** Partindo da Graça "Nível Inferior da Mansão", caminhe pelas passarelas superiores. Olhe para a esquerda (norte) para encontrar um telhado abaixo; pule nele, siga para o próximo nível e desça pela escada para encontrar o baú.
+
+**Lore:** Uma das armas lendárias de "Entre-terras". Simboliza a amizade histórica entre os Astrólogos e os Gigantes de Fogo. Permite usar tanto o feitiço Cometa de Azur quanto uma técnica de fogo devastadora.
+
+* **Item:** **Espada da Noite e da Chama**.
+* **Dica:** Esta arma exige fé e inteligência. É obrigatória para a platina. Cuidado com as mãos gigantes ("Fingercreepers") no jardim antes de subir para as passarelas.
+
+<p align="center">
+    <img src="../inventory/weapons/straight_swords/sword_of_night_and_flame_loc.png" alt="Espada da Noite e da Chama" width="600">
+    <br>
+    <em>Figura 22: O Tesouro da Mansão Caria. A localização desta espada lendária é um desvio obrigatório para quem busca a platina.</em>
+</p>
+
+---
+
+27. **Auxílio a Yura (O Caçador de Dedos Sangrentos):** Após atravessar o selo principal da Academia, não siga direto para o elevador. Caminhe pela ponte em direção ao norte (atravessando o selo azul sem interagir).
+    * *O Confronto:* Localize a **marca de invocação vermelha** no chão. Ajude Yura a derrotar o Assassino de Ravenmount.
+    * *Recompensa:* Após a vitória, receba as Cinzas de Guerra: **Névoa de Rapina** ao falar com Yura na ponte.
 
 <p align="center">
   <img src="assets/liurnia_of_the_lakes_22.png" alt="Marca de Invocação de Yura na Ponte" width="600">
   <br>
-  <em>Figura 22: Sangue na Academia. Ajudar Yura nesta ponte é o penúltimo passo de sua jornada antes do encontro trágico em Altus.</em>
+  <em>Figura 23: Sangue na Academia. Ajudar Yura nesta ponte é o penúltimo passo de sua jornada antes do encontro trágico em Altus.</em>
 </p>
 
 > [!CAUTION]
-> **Aviso de Localização:** A marca de invocação fica um pouco "escondida" após o primeiro selo. Certifique-se de olhar para o chão na parte metálica da ponte antes de seguir para a floresta ou para o elevador da Academia.
+> **Aviso de Localização:** A marca de invocação fica na parte metálica da ponte após o primeiro selo. Olhe atentamente para o chão antes de prosseguir.
 
 ---
 
-27. **A Ascensão de Raya Lucaria:**
-    A invasão à Academia exige atenção aos detalhes arquitetônicos para não perder itens de progressão de quest.
+28. **A Ascensão de Raya Lucaria:**
+    A invasão à Academia exige atenção para não perder itens de progressão de quest.
 
-    * **O Guardião da Academia:** Derrote o **Lobo Vermelho de Radagon**. Ele bloqueia o acesso ao pátio interno e à Grande Biblioteca.
+    * **O Guardião da Academia:** Derrote o **Lobo Vermelho de Radagon**. Ele bloqueia o acesso ao pátio interno.
     <p align="center">
       <img src="assets/liurnia_of_the_lakes_23.png" alt="Lobo Vermelho de Radagon" width="600">
       <br>
-      <em>Figura 23: O Sentinela de Pedrilhante. Derrotar o Lobo libera o Ponto de Graça "Sala de Debate", seu hub central dentro da Academia.</em>
+      <em>Figura 24: O Sentinela de Pedrilhante. Derrotar o Lobo libera o Ponto de Graça "Sala de Debate".</em>
     </p>
 
-    * **O Segredo dos Candelabros:** Partindo do pátio interno (onde está a fonte), suba as escadas à esquerda, pule para os telhados e siga a rota secreta até as vigas superiores da **Igreja do Cuco**.
-    * **Item de Quest (Thops):** Caminhe sobre as vigas e olhe para baixo; a **Segunda Chave de Pedrilhante** estará em um corpo sobre um dos candelabros pendentes.
+    * **O Segredo dos Candelabros:** Partindo do pátio interno, suba as escadas à esquerda, pule para os telhados e siga até as vigas da **Igreja do Cuco**.
+    * **Item de Quest (Thops):** A **Segunda Chave de Pedrilhante** estará em um corpo sobre um dos candelabros.
     <p align="center">
       <img src="assets/liurnia_of_the_lakes_24.png" alt="Localização da Segunda Chave de Pedrilhante" width="600">
       <br>
-      <em>Figura 24: O Legado de Thops. Coletar esta chave reserva é o requisito final para permitir que Thops retorne aos seus estudos na Academia.</em>
+      <em>Figura 25: O Legado de Thops. Coletar esta chave é o requisito final para que Thops retorne à Academia.</em>
     </p>
 
-    * **Passo de Mestre:** Antes de enfrentar Rennala, entregue a chave reserva ao **Thops** na Igreja de Irith. Vá até a "Sala de Aula da Escola" para pegar seus itens e retorne à Igreja de Irith para a sua Cinza de Guerra.
+    * **Passo de Mestre:** Entregue a chave ao Thops na Igreja de Irith **antes** de derrotar Rennala.
     * Derrote **Rennala, Rainha da Lua Cheia** para liberar o Renascimento.    
 
-> [!IMPORTANT]
-> **Checklist de Retorno:** Assim que coletar a segunda chave, teleporte-se para a Igreja de Irith e entregue-a para Thops **antes** de enfrentar a Rennala. Isso garante que o script do NPC siga para o próximo passo corretamente.
+---
+
+29. **Ícone de Radagon [TALISMÃ LENDÁRIO]**
+Após derrotar o Lobo Vermelho de Radagon, há um segredo importante no lado direito do pátio central.
+
+**Descrição:** Saindo da "Sala de Debate", vire à direita no pátio, pule o muro e suba a escada de mão. Entre pela janela quebrada no andar superior da sala do chefe. O item está em um baú.
+
+**Lore:** Um talismã lendário que retrata o campeão Radagon. Reduz o tempo de conjuração de feitiçarias e encantamentos. 
+
+* **Item:** **Ícone de Radagon**.
+* **Dica:** Obrigatório para o troféu "Talismãs Lendários". Essencial para acelerar animações de lançamento de magias ou milagres.
+
+<p align="center">
+    <img src="../inventory/talismans/stat_boost/radagon_icon_loc.png" alt="Ícone de Radagon" width="600">
+    <br>
+    <em>Figura 26: O Segredo da Sala de Debate. O Ícone de Radagon está escondido no andar superior, acessível apenas por rota externa.</em>
+</p>
 
 ---
 [🏠 Retornar ao Guia Principal](../README.md) | [🌌 Prosseguir para O Destino nas Estrelas Subterrâneas: Ranni e o Rio Siofra](../05_siofra_river/route.md)

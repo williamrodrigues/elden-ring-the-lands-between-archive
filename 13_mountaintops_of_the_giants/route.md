@@ -287,7 +287,7 @@ O ponto de decisão que altera o mundo.
 * **Aviso:** Isso te teleportará para Farum Azula. Só faça isso se já pegou a Rios de Sangue.
 
 <p align="center">
-    <img src="assets/mountaintops_20_forge.png" alt="Forja" width="600">
+    <img src="assets/mountaintops_20.png" alt="Forja" width="600">
     <br>
     <em>Figura 20: O incêndio da Árvore Térvore.</em>
 </p>
@@ -380,17 +380,23 @@ Um puzzle de inteligência artificial.
 
 ---
 
-## 🐲 27. Theodorix e a Espada da Ordem [🏆 PLATINA]
+## 🐲 27. Theodorix e a Espada Grande da Ordem Áurea [🏆 PLATINA]
 O Wyrm que guarda a arma lendária.
 
 * **Localização:** Fim do rio ao norte.
 * **Estratégia:** Atraia Theodorix para os polvos gigantes próximos; eles lutarão entre si.
-* **Loot:** **Espada da Ordem Dourada** (Arma Lendária).
+* **Loot:** **Espada Grande da Ordem Áurea** (Arma Lendária).
 
 <p align="center">
     <img src="assets/mountaintops_27.png" alt="Theodorix" width="600">
     <br>
     <em>Figura 27: Dragão de Magma e entrada da masmorra lendária.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/weapons/greatswords/golden_order_greatsword_loc.png" alt="Theodorix" width="600">
+    <br>
+    <em>Figura 27b: Caverna dos Desamparados.</em>
 </p>
 
 ---
