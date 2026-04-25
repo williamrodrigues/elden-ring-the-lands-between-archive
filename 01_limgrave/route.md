@@ -299,6 +299,31 @@ Onde a chuva nunca para e as tragédias se multiplicam.
 
 ---
 
+## [🏆 PLATINA] Invocação Lendária: Lhutel, a Sem Cabeça
+Localizada nas **Catacumbas do Túmulo de Tombsward**, no centro da Península das Lágrimas.
+
+* **O Desafio:** Você deve derrotar a **Sombra do Cemitério**. É uma luta rápida, mas o chefe causa acúmulo de hemorragia e possui ataques paralisantes.
+* **A Recompensa:** Lhutel é uma das invocações mais resistentes do jogo. Ela utiliza uma lança, um escudo pesado e tem a habilidade única de se teletransportar, o que a torna excelente para distrair chefes enquanto você ataca.
+
+* **Lore:** Lhutel sacrificou sua própria cabeça para servir ao seu lorde mesmo após a morte. Ela lidera os Cavaleiros de Mausoléu, que protegem os restos mortais dos semideuses que não receberam um enterro na Térvore.
+
+* **Item:** **Cinzas de Lhutel, a Sem Cabeça [INVOCAÇÃO LENDÁRIA]**.
+* **Dica:** Use ataques de fogo ou armas que causem dano de impacto (Strike) para derrotar a Sombra do Cemitério rapidamente, impedindo que ela use seu teletransporte de curto alcance.
+
+<p align="center">
+    <img src="../inventory/spirit_ashes/lhutel_headless_loc.png" alt="Localização Catacumbas de Tombsward" width="600">
+    <br>
+    <em>O Caminho para as Catacumbas. Localizadas ao norte do platô central da Península, escondidas entre as formações rochosas.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/spirit_ashes/lhutel_headless_item.png" alt="Atributos de Lhutel" width="600">
+    <br>
+    <em>Lhutel, a Sem Cabeça. Um dos sete espíritos lendários necessários para a conquista de Platina.</em>
+</p>
+
+---
+
 29. **O Acerto de Contas com Patches:** Retorne à "Caverna da Ala do Mausoléu", fale com Patches e, finalmente, abra o seu baú para dar continuidade à sua excêntrica jornada.
 <p align="center">
   <img src="assets/limgrave_29.png" alt="" width="600">

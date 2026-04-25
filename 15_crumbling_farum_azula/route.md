@@ -628,3 +628,5 @@ A sombra emial de Marika e o guardião da Runa da Morte. A conclusão desta luta
 </p>
 
 ---
+
+[⬅️ Voltar para o README.md](README.md) | [Prosseguir para Leyndell, Capital das Cinzasa ➡️](../16_ashen_capital/route.md)

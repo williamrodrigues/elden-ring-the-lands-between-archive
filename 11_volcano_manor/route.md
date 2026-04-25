@@ -135,12 +135,12 @@ Saindo do lago de lava onde está o Alexander, siga a trilha que sobe a montanha
 
 ---
 
-### 6. 🧙‍♂️ O Caminho dos Eremitas e a busca pelos Mestres Primevos
+### 6. 🧙‍♂️ O Caminho dos Eremitas e a busca pelos Mestres Primevos [🏆 PLATINA]
 Continue contornando a montanha em sentido horário.
 
 * **Vila dos Eremitas:** Passe pela vila e derrote a **Rainha Semihumana Maggie**.
 * **[🏆 PLATINA] Feiticeiro Primevo Azur:** Logo atrás da arena da Maggie, interaja com o corpo de cristal.
-* **Item:** **Cometa Azur** (Um dos 7 Feitiços Lendários).
+* **Item:** **Cometa Azur / Bólido Escuro** (Um dos 7 Feitiços Lendários).
 
 <p align="center">
   <img src="assets/volcano_manor_10.png" alt="Comet Azur Location" width="600">
@@ -185,6 +185,31 @@ Com Radahn derrotado, o castelo retorna ao seu estado "normal", revelando novos 
   <em>Figura 12: Derrote a dupla dinâmica para coletar uma das armas mais pesadas da Platina.</em>
 </p>
 
+### C. [🏆 PLATINA] Invocação Lendária: Ogha, Cavaleiro da Juba Vermelha
+Após a derrota de Radahn, uma nova masmorra torna-se acessível no extremo norte da arena (beira-mar). 
+
+**⚠️ AVISO DE DIFICULDADE:** Os inimigos dentro desta catacumba (espíritos de cavaleiros e soldados) lutam entre si, mas causam dano massivo. Se você acabou de derrotar Radahn, considere voltar aqui após explorar Nokron ou quando estiver acima do nível 80.
+
+* **O Desafio:** Atravesse a masmorra e derrote o **Espírito de Árvore Ulcerado**. 
+* **A Recompensa:** Ogha é um arqueiro formidável que utiliza as flechas de gravidade de Radahn, excelente para suporte à distância.
+
+**Lore:** Um dos cavaleiros mais antigos de Radahn, Ogha estudou as técnicas de gravidade junto com seu senhor. Ele utiliza um arco gigante para disparar chuvas de flechas contra os inimigos de Selia.
+
+* **Item:** **Ogha, Cavaleiro da Juba Vermelha [INVOCAÇÃO LENDÁRIA]**.
+* **Dica:** Use o combate entre os fantasmas a seu favor. Corra pelos cantos para evitar ser o alvo principal das flechas e foque apenas em chegar à alavanca e ao chefe.
+
+<p align="center">
+    <img src="../inventory/spirit_ashes/redmane_ogha_loc.png" alt="Localização Catacumbas dos Mortos de Guerra" width="600">
+    <br>
+    <em>O Canto da Arena. Localizada no ponto mais ao norte do deserto de Radahn, encostada nos penhascos.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/spirit_ashes/redmane_ogha_item.png" alt="Atributos de Ogha" width="600">
+    <br>
+    <em>Ogha, Cavaleiro da Juba Vermelha. Invocação lendária necessária para a platina.</em>
+</p>
+
 ---
 
 ## 💎 6.3: O Esconderijo de Sellia e o Segundo Mestre [🏆 PLATINA]
@@ -194,7 +219,7 @@ Agora que possui o Quebrador de Selo, localize o Mestre Lusat para garantir o se
 * **O Segredo:** Vá até o cemitério e ataque a parede de pedra atrás do monumento principal.
 * **Exploração e Itens Ocultos:**
     * **Lança de Cristal:** Parede ilusória no lado direito da primeira sala de cristais.
-    * **[🏆 LENDÁRIO] Estrelas da Ruína:** Use o selo na barreira mágica no fundo da caverna.
+    * **[🏆 LENDÁRIO] Estrelas da Ruína / Plêiades:** Use o selo na barreira mágica no fundo da caverna.
 * **O Chefe da Masmorra:** Trio de Cristianistas Putrefatos (Dropa o feitiço **Torrente de Cristal**).
 
 <p align="center">

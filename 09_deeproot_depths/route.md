@@ -36,6 +36,20 @@ Após a viagem no caixão, você estará nas raízes superiores da Térvore.
 1. **Primeira Graça:** Ative "Cristas da Grande Cachoeira" (Great Waterfall Crest).
 2. **[📍 MAPA] Fragmento de Mapa:** Atravesse as raízes gigantes para oeste. O mapa está em um corpo sob um pavilhão de pedra.
     * *Estratégia:* Use fogo contra as formigas de abdômen inflado para ganhar muitas runas.
+3. **[🏆 PLATINA] Encantamento Lendário: Estrelas Prístinas:**
+Partindo do local onde pegou o mapa, olhe para as raízes que sobem em direção à parede da caverna (nordeste).
+* **O Caminho:** Siga pela raiz gigante que entra em uma abertura na rocha. Você passará por um túnel cheio de formigas gigantes.
+* **Localização:** O item está em um corpo na borda de um penhasco interno, guardado por várias formigas rainhas.
+* **Lore:** Diz-se que este é o encantamento mais antigo derivado da Vontade Maior. Ele representa a estrela dourada que trouxe a Besta de Elden para as Entre-terras, dando origem à Térvore.
+
+* **Item:** **Estrelas Prístinas [ENCANTAMENTO LENDÁRIO]**.
+* **Dica:** Este feitiço lança uma chuva de projéteis dourados que perseguem o inimigo. É excelente para manter pressão constante em bosses grandes, embora o dano individual das estrelas seja baixo.
+
+<p align="center">
+    <img src="../inventory/incantations/elden_stars_loc.png" alt="Localização Estrelas Prístinas" width="600">
+    <br>
+    <em>Figura 65b: O Brilho Primordial. Encontrar este encantamento é um requisito obrigatório para o troféu de colecionador de magias.</em>
+</p>
 
 ---
 

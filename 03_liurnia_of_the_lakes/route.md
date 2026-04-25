@@ -110,13 +110,22 @@ A travessia pelo pântano revela almas em busca de redenção e mercadores de in
 
 ---
 
-11. **O Domínio Geográfico Completo:** Cavalgue em direção à margem oeste do lago para localizar o terceiro e último pilar de mapeamento da região.
-    * **Mapa (Liurnia, Oeste):** Localizado na estrada que sobe em direção às falésias ocidentais. Com este fragmento, toda a bacia de Liurnia estará revelada no seu mapa.
+11. **O Domínio Geográfico Completo e a Heresia de Adan:** Cavalgue em direção à margem oeste do lago para localizar o último pilar de mapeamento e enfrentar o guardião do fogo.
+
+* **Mapa (Liurnia, Oeste):** Localizado na estrada que sobe em direção às falésias ocidentais. Com este fragmento, toda a bacia de Liurnia estará revelada.
+* **Item Lendário:** **Chama do Deus Caído [🏆 PLATINA]**. No topo do platô, acesse o **Cárcere Eterno do Malfeitor** para derrotar Adan, o Ladrão do Fogo.
+* **Dica:** O encantamento cria uma esfera de fogo lenta que persegue o alvo. No combate, seja agressivo para interromper Adan, pois ele possui pouca estabilidade (poise) e pode ser facilmente atordoado.
 
 <p align="center">
   <img src="assets/liurnia_of_the_lakes_09.png" alt="Pilar do Mapa Oeste e Igreja da Rosa" width="600">
   <br>
-  <em>Figura 9: Mapeamento e Sangue. A revelação do setor oeste permite localizar com precisão a entrada para a Vila dos Albinaúricos.</em>
+  <em>Figura 9a: Mapeamento e Sangue. A revelação do setor oeste permite localizar com precisão a entrada para a Vila dos Albinaúricos.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/incantations/flame_of_the_fell_god_loc.png" alt="Cárcere Eterno do Malfeitor" width="600">
+    <br>
+    <em>Figura 9b: O Pecado de Adan. A conquista deste feitiço é um passo obrigatório para o troféu de colecionador de magias lendárias.</em>
 </p>
 
 ---

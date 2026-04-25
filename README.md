@@ -30,17 +30,18 @@ Para garantir a progressão perfeita, cada diretório deste guia cobre:
 - [ ] [06. Caelid (Festival de Radahn)](./06_caelid/README.md)
 - [ ] [07. Nokron, Eternal City](./07_nokron_eternal_city/README.md)
 - [ ] [08. Ainsel River](./08_ainsel_river/README.md)
-- [ ] 09. Deeproot Depths
+- [ ] [09. Deeproot Depths](./09_deeproot_depths/README.md)
 
 ### 🟨 Fase 3: O Platô e a Capital
-- [ ] 10. Altus Plateau
-- [ ] 11. Volcano Manor
-- [ ] 12. Leyndell, Royal Capital
+- [ ] [10. Altus Plateau](./10_altus_plateau/README.md)
+- [ ] [11. Volcano Manor](./11_volcano_manor/README.md)
+- [ ] [12. Leyndell, Royal Capital](./12_leyndell_royal_capital/README.md)
 
 ### ⬜ Fase 4: O Fim do Caminho
-- [ ] 13. Mountaintops of the Giants
-- [ ] 14. Miquella's Haligtree
-- [ ] 15. Crumbling Farum Azula
+- [ ] [13. Mountaintops of the Giants](./13_mountaintops_of_the_giants/README.md)
+- [ ] [14. Miquella's Haligtree](./14_miquellas_haligtree/README.md)
+- [ ] [15. Crumbling Farum Azula](./15_crumbling_farum_azula/README.md)
+- [ ] [16. Ashen Capital](./16_ashen_capital/README.md)
 
 ---
 > *"Levante-se, Maculado, e que a graça te guie."*

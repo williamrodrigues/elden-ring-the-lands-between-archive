@@ -174,6 +174,30 @@ Agora que Ranni partiu para o seu destino nas estrelas, as histórias de seus co
 
 ---
 
+## ⚔️ [🏆 PLATINA] A Assassina de Deuses: Tiche, a Faca Negra
+Localizado no extremo noroeste do Altar Lunar, o **Cárcere Eterno do Líder** guarda a alma de uma das guerreiras mais temíveis da história das Terras Intermédias.
+
+**Descrição:** Para obter esta invocação, você deve derrotar **Alecto, Líder das Facas Negras**. Esta é uma luta solo (invocações não são permitidas). Alecto é extremamente ágil e utiliza ataques que causam dano contínuo de queimadura vital (Destino da Morte).
+
+**Lore:** Tiche era a filha de Alecto e uma das assassinas que participaram da Noite das Facas Negras. Ela morreu protegendo sua mãe durante a fuga da Capital Real. Suas cinzas permitem invocar seu espírito, capaz de realizar ataques acrobáticos e reduzir o HP máximo dos inimigos.
+
+* **Item:** **Cinzas de Tiche, a Faca Negra [INVOCAÇÃO LENDÁRIA]**.
+* **Dica:** Use ataques que causem quebra de postura ou magias de área. Alecto é vulnerável a ser derrubada por habilidades pesadas. Tiche é considerada por muitos a melhor invocação para enfrentar chefes como Malenia e a Fera Elden.
+
+<p align="center">
+    <img src="../inventory/spirit_ashes/black_knife_tiche_loc.png" alt="Localização do Cárcere do Líder" width="600">
+    <br>
+    <em>Localização do Cárcere Eterno do Líder no platô noroeste.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/spirit_ashes/black_knife_tiche_item.png" alt="Atributos de Tiche" width="600">
+    <br>
+    <em>Tiche, a Faca Negra. Um dos espíritos lendários necessários para a platina.</em>
+</p>
+
+---
+
 ## 🌟 68. O Legado de Ranni (Item Lendário)
 Siga para o sudoeste do Altar do Luar até a **Ascensão de Chelona** (Chelona's Rise) para buscar o conhecimento máximo da princesa.
 

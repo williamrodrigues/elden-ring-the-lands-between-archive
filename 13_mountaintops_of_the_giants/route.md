@@ -109,7 +109,7 @@ Uma versão mais perigosa que invoca um esqueleto gigante do chão.
 
 ---
 
-## 🌟 08. Magia Ancestral: Chuva de Estrelas [🏆 PLATINA]
+## 🌟 08. Magia Ancestral: Chuva de Estrelas Fundadora [🏆 PLATINA]
 Um dos feitiços lendários necessários para o troféu.
 
 * **Localização:** **Ascensão Herética**.
@@ -117,7 +117,7 @@ Um dos feitiços lendários necessários para o troféu.
 * **Dica:** Use Pedras de Arco-Íris para marcar o chão com segurança.
 
 <p align="center">
-    <img src="assets/mountaintops_08.png" alt="Chuva de Estrelas" width="600">
+    <img src="assets/mountaintops_08.png" alt="Chuva de Estrelas Fundadora" width="600">
     <br>
     <em>Figura 8: Travessia invisível para o feitiço lendário.</em>
 </p>
