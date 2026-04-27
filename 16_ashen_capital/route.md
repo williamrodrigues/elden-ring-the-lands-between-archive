@@ -5,10 +5,10 @@
 
 ---
 
-## 01. O Destino de Corhyn e a Montanha dos Gigantes
-Ao chegar na Capital das Cinzas, o ciclo do instrutor de milagres se aproxima do fim. Você o encontrará próximo à base da grande escadaria ou no local onde ele estava nos Picos dos Gigantes.
+## 🧭 01. O Destino de Corhyn e a Montanha dos Gigantes
+Ao chegar na Capital das Cinzas, o ciclo do instrutor de milagres se aproxima do fim. Você o encontrará próximo à base da grande escadaria.
 
-* **Lore:** Corhyn, consumido pela dúvida ao ver seu mestre questionar a perfeição da Ordem Áurea, entra em colapso. Ele representa a fé cega que não suporta a verdade das rachaduras na Ordem.
+* **Lore:** Corhyn, consumido pela dúvida ao ver seu mestre questionar a Ordem Áurea, entra em colapso. Ele representa a fé cega que não suporta a verdade das rachaduras na Ordem.
 * **Item:** **Sino de Corhyn** e **Veste de Corhyn**.
 * **Dica:** Se ele não estiver na Capital, verifique a ponte nas Ruínas dos Astrônomos (Picos dos Gigantes). Esgote todos os diálogos antes de recarregar a área.
 
@@ -20,11 +20,10 @@ Ao chegar na Capital das Cinzas, o ciclo do instrutor de milagres se aproxima do
 
 ---
 
-## 02. O Espólio do Instrutor (Reset de Área)
+## ⚙️ 02. O Espólio do Instrutor (Reset de Área)
 Para que os itens físicos de Corhyn apareçam, é necessário que o mundo "processe" o fim de sua jornada.
 
 * **Ação:** Após o diálogo final, descanse em uma Graça ou saia para o menu principal e volte.
-* **Lore:** O sino deixado para trás contém todo o conhecimento litúrgico acumulado por Corhyn durante sua peregrinação.
 * **Item:** **Esfera de Corhyn** (Sino).
 * **Dica:** Entregue este sino às Gêmeas Idosas na Mesa-Redonda para recuperar o acesso a quaisquer encantamentos que não tenha comprado.
 
@@ -36,10 +35,10 @@ Para que os itens físicos de Corhyn apareçam, é necessário que o mundo "proc
 
 ---
 
-## 03. O Fim da Meditação: Localização do Máscara Dourada
+## 🧘 03. O Fim da Meditação: Localização do Máscara Dourada
 Abaixo do Coliseu de Leyndell, seguindo pelo caminho das cinzas em direção ao penhasco, você encontrará o corpo imóvel do mestre.
 
-* **Lore:** O Máscara Dourada finalmente concluiu seus cálculos sobre a Térvore. Sua descoberta foi radical: a imperfeição da Ordem não era divina, mas sim fruto da volatilidade dos corações humanos e dos próprios Deuses.
+* **Lore:** O Máscara Dourada concluiu seus cálculos: a imperfeição da Ordem era fruto da volatilidade dos corações humanos e dos próprios Deuses, não algo divino em si.
 * **Item:** **Runa de Reparação da Ordem Perfeita**.
 * **Dica:** O corpo dele está na base das falésias abaixo do Santuário da Térvore. Atravesse a ponte de troncos e desça com cuidado.
 
@@ -51,13 +50,11 @@ Abaixo do Coliseu de Leyndell, seguindo pelo caminho das cinzas em direção ao 
 
 ---
 
-## 04. A Runa de Reparação da Ordem Perfeita
-Este é o item fundamental para desbloquear um dos finais alternativos de Lorde Elden.
+## 💠 04. A Runa de Reparação da Ordem Perfeita
+Este é o item fundamental para desbloquear o final **"Era da Ordem"**.
 
-* **Descrição:** Uma runa rúnica que permite restaurar o Anel de Elden com um novo conceito: a exclusão da influência subjetiva dos deuses.
-* **Lore:** Representa a tentativa de criar uma "Ordem Pura", onde as falhas da Rainha Marika e sua linhagem não possam mais causar o caos.
-* **Item:** **Runa de Reparação da Ordem Perfeita**.
-* **Dica:** Mesmo que planeje o final da Ranni, este item é essencial para o completionist e para entender o ápice da filosofia do jogo.
+* **Descrição:** Uma runa que permite restaurar o Anel de Elden excluindo a influência subjetiva dos deuses.
+* **Lore:** Representa a tentativa de criar uma "Ordem Pura", onde as falhas da Rainha Marika não causem mais o caos.
 
 <p align="center">
     <img src="assets/ashen_capital_04.png" alt="Runa da Ordem" width="600">
@@ -67,12 +64,11 @@ Este é o item fundamental para desbloquear um dos finais alternativos de Lorde 
 
 ---
 
-## 05. O Espólio do Mestre (Set do Máscara Dourada)
+## 🎭 05. O Espólio do Mestre (Set do Máscara Dourada)
 As vestes do maior matemático das Terras Intermédias tornam-se disponíveis após a coleta da Runa.
 
-* **Descrição:** Recarregue o jogo ou descanse na Graça após coletar a Runa para encontrar o conjunto completo no corpo.
-* **Item:** **Conjunto do Máscara Dourada** (Capa, Braceletes e Calças). 
-* **Dica:** Este set é extremamente leve e aumenta em 10% o dano de encantamentos da linhagem da Ordem Áurea.
+* **Item:** **Conjunto do Máscara Dourada**. 
+* **Dica:** Este set aumenta em 10% o dano de encantamentos da Ordem Áurea.
 
 <p align="center">
     <img src="assets/ashen_capital_05.png" alt="Set Mascara Dourada" width="600">
@@ -82,13 +78,11 @@ As vestes do maior matemático das Terras Intermédias tornam-se disponíveis ap
 
 ---
 
-## 06. Local da Máscara de Ouro Radiante
-Ao contrário do resto do set, a máscara física foi deixada para trás durante a jornada nos picos nevados.
+## ☀️ 06. Local da Máscara de Ouro Brilhante
+A máscara física foi deixada para trás durante a jornada nos picos nevados.
 
-* **Localização:** Retorne à ponte quebrada nos **Picos dos Gigantes** (próximo à Graça das Ruínas dos Astrônomos). O item estará no final da estrutura.
-* **Lore:** Uma máscara solar radiante que impede o usuário de expressar emoções, mantendo o foco total nos cálculos da Térvore.
-* **Item:** **Máscara de Ouro Radiante**.
-* **Dica:** Equipe-a junto com o set coletado no passo anterior para maximizar builds de Fé "Pureza".
+* **Localização:** Retorne à ponte quebrada nos **Picos dos Gigantes** (próximo à Graça das Ruínas dos Astrônomos).
+* **Item:** **Máscara de Ouro Brilhante**.
 
 <p align="center">
     <img src="assets/ashen_capital_06.png" alt="Mascara Radiante" width="600">
@@ -98,84 +92,112 @@ Ao contrário do resto do set, a máscara física foi deixada para trás durante
 
 ---
 
-## 09. Encantamento: Cura da Térvore (Quarto da Rainha)
-Subindo em direção ao confronto final, você encontrará a relíquia de cura mais poderosa da linhagem de Marika.
+## 🛡️ 07. Talismã da Dádiva da Térvore +2 [🏆 PLATINA]
+O último talismã lendário escondido nas cinzas.
 
-* **Descrição:** Encontrado na Graça **Quarto da Rainha** (Queen's Bedchamber), sobre a cama de pedra.
-* **Lore:** O ápice dos encantamentos de cura da Térvore. Diz-se que apenas os mais próximos da Rainha Marika conheciam este nível de restauração.
-* **Item:** **Cura da Térvore (Erdtree Heal)**.
-* **Dica:** Este feitiço cura uma quantidade massiva de HP (seu e de aliados próximos). Requer **42 de Fé**. É vital para a sobrevivência na Boss Rush final.
+* **Item:** **Dádiva da Térvore +2** (Erdtree's Favor +2).
+* **Dica:** Partindo da Graça "Terras Proibidas", volte pelo elevador para o pátio coberto de cinzas. Patrulhado por três Espíritos da Árvore Ulcerada. O item está no topo de um tronco.
 
 <p align="center">
-    <img src="assets/ashen_capital_12.png" alt="Localização Cura Tervore" width="600">
+    <img src="assets/ashen_capital_07.png" alt="Caminho Dadiva 2" width="600">
     <br>
-    <em>Figura 9a: O Quarto da Rainha, o último ponto de descanso antes do trono.</em>
+    <em>Figura 7: Caminho da Graça até o elevador de acesso.</em>
+</p>
+
+<p align="center">
+    <img src="assets/ashen_capital_08.png" alt="Saída Elevador" width="600">
+    <br>
+    <em>Figura 8: Saída do elevador em direção ao centro do pátio de cinzas.</em>
+</p>
+
+<p align="center">
+    <img src="assets/ashen_capital_09.png" alt="Coleta Dadiva 2" width="600">
+    <br>
+    <em>Figura 9: Coleta do talismã lendário.</em>
+</p>
+
+---
+
+## 👁️ 08. Sir Gideon Ofnir, o Sabe-Tudo
+O líder da Távola Redonda tenta impedir seu avanço para o trono.
+
+* **Drops:** **Cetro do Sabe-Tudo** e **Set de Armadura do Sabe-Tudo**.
+* **Dica:** Aproveite o longo monólogo inicial dele para aplicar buffs e desferir os primeiros golpes.
+
+<p align="center">
+    <img src="assets/ashen_capital_10.png" alt="Gideon Localização" width="600">
+    <br>
+    <em>Figura 10: Entrada do Santuário da Térvore.</em>
+</p>
+
+<p align="center">
+    <img src="assets/ashen_capital_11.png" alt="Gideon Combate" width="600">
+    <br>
+    <em>Figura 11: O confronto contra o Maculado que acumulou todo o conhecimento.</em>
+</p>
+
+---
+
+## ✨ 09. Encantamento: Cura da Térvore
+A relíquia de cura mais poderosa da linhagem de Marika.
+
+* **Local:** Graça **Quarto da Rainha** (Queen's Bedchamber).
+* **Item:** **Cura da Térvore** (Erdtree Heal).
+* **Requisito:** 42 de Fé.
+
+<p align="center">
+    <img src="assets/ashen_capital_12.png" alt="Quarto da Rainha" width="600">
+    <br>
+    <em>Figura 12: O último ponto de descanso antes do trono.</em>
 </p>
 
 <p align="center">
     <img src="assets/ashen_capital_13.png" alt="Coleta Cura Tervore" width="600">
     <br>
-    <em>Figura 9b: Coletando o encantamento de restauração máxima.</em>
+    <em>Figura 13: Coletando o encantamento de restauração máxima.</em>
 </p>
 
 ---
 
-## 🦁 10. Godfrey / Hoarah Loux, o Guerreiro [🏆 PLATINA]
-O Primeiro Elden Lord retorna para reivindicar seu título. Uma das lutas mais épicas e físicas do jogo.
+## 🦁 10. Godfrey / Hoarah Loux [🏆 PLATINA]
+O Primeiro Elden Lord retorna para seu julgamento final.
 
-* **Item:** **Lembrança de Hoarah Loux**.
-* **Estratégia Fase 1 (Godfrey):** Ele ataca com um machado gigante e causa tremores no chão (pule para esquivar dos tremores, rolar é menos eficiente).
-* **Estratégia Fase 2 (Hoarah Loux):** Ele descarta o leão Serosh e luta com as próprias mãos. Seus ataques de agarrão dão instakill na maioria das builds. Mantenha distância quando ele levantar os braços e prepare-se para pular os ataques em área brutais.
+* **Drops:** **Lembrança de Hoarah Loux**.
+* **Dica:** Fase 1 (Godfrey) use pulos para evitar os choques no chão. Fase 2 (Hoarah Loux) mantenha distância dos ataques de agarrão.
 
 <p align="center">
-    <img src="assets/ashen_capital_14.png" alt="Hoarah Loux" width="600">
+    <img src="assets/ashen_capital_14.png" alt="Hoarah Loux Boss" width="600">
     <br>
-    <em>Figura 3: Enfrentando a fúria primitiva do Primeiro Elden Lord.</em>
+    <em>Figura 14: Enfrentando a fúria primitiva do Primeiro Elden Lord.</em>
 </p>
 
 ---
 
-## 👑 11. Radagon da Ordem Áurea e a Fera Elden [🏆 PLATINA]
-O embate final. Duas lutas seguidas, sem checkpoint entre elas. Você lutará dentro da Térvore.
+## 👑 11. Radagon e a Fera Elden [🏆 PLATINA]
+O embate final. Duas lutas seguidas sem checkpoint.
 
-* **Item:** **Lembrança da Fera Elden** e o coração de um deus.
-* **Dica para Radagon:** Ele é imune a Sangramento e muito resistente a Dano Sagrado. Use armas de Dano Físico (Strike/Esmagamento) ou Fogo.
-* **Dica para a Fera Elden:** Uma batalha de resistência e corrida. O talismã "Dádiva da Térvore +2" e o "Talismã de Draco Sagrado +2" (Haligdrake Talisman) são fundamentais aqui para sobreviver aos ataques de luz. A magia de fogo "Tornado de Chama Negra" derrete o HP da Fera Elden.
+* **Drops:** **Lembrança da Fera Elden**.
+* **Dica:** Use o **Talismã de Draco Sagrado +2** para reduzir o dano de Radagon e da Fera. Radagon é vulnerável a Fogo; a Fera Elden é vulnerável a **Chama Negra**.
 
 <p align="center">
-    <img src="assets/ashen_capital_15.png" alt="Radagon Elden Beast" width="600">
+    <img src="assets/ashen_capital_15.png" alt="Boss Final" width="600">
     <br>
-    <em>Figura 4: A batalha dupla definitiva pelo destino das Terras Intermédias.</em>
+    <em>Figura 15: A batalha dupla definitiva pelo destino das Terras Intermédias.</em>
 </p>
 
 ---
 
-## 12. O Sacrifício Final: Rugido de Greyoll [🏆 PLATINA]
-Com o Trono de Elden garantido, é hora de realizar o último sacrifício necessário para a coleção de magias lendárias.
+## 🐉 12. Ritual Final: Rugido de Greyoll [🏆 PLATINA]
+Com o trono garantido, finalize a coleção lendária em Caelid.
 
-* **Descrição:** O processo exige a derrota da Grande Dragão Greyoll e a troca do seu coração na Catedral da Comunhão Dragônica em Caelid.
-
-* **Lore:** Um encantamento lendário que emite o rugido da grande dragão anciã. Greyoll era a mãe de todos os dragões, e seu rugido é um lamento que diminui o poder de ataque e defesa dos inimigos próximos.
-
-* **Item:** **Rugido de Greyoll [ENCANTAMENTO LENDÁRIO]**.
-* **Checklist de Platina:** Ao adquirir este item, se você seguiu todos os passos anteriores (Chama do Deus Caído e Estrelas Prístinas), o troféu de **Encantamentos Lendários** será desbloqueado.
+* **Requisito:** Matar a dragão Greyoll em Dragonbarrow e trocar o coração na **Catedral da Comunhão Dragônica** (Sul de Caelid).
+* **Item:** **Rugido de Greyoll** (Heal from Afar).
+* **Nota:** Este é o gatilho final para o troféu de Feitiços Lendários.
 
 <p align="center">
-    <img src="../inventory/incantations/greyolls_roar_loc.png" alt="Localização da Greyoll" width="600">
+    <img src="../inventory/incantations/greyolls_roar_loc.png" alt="Greyoll Loc" width="600">
     <br>
-    <em>Figura 5a: Ponto de Partida. A Grande Dragão Greyoll e seus filhotes na Fortaleza Faroth.</em>
-</p>
-
-<p align="center">
-    <img src="assets/caelid_cathedral_loc.png" alt="Localização da Catedral" width="600">
-    <br>
-    <em>Figura 5b: O Altar de Heresia. Localização da Catedral da Comunhão Dragônica ao sul de Caelid.</em>
-</p>
-
-<p align="center">
-    <img src="../inventory/incantations/greyolls_roar_item.png" alt="Compra do Item" width="600">
-    <br>
-    <em>Figura 5c: Descrição do Rugido de Greyoll. O selo final da sua jornada como colecionador lendário.</em>
+    <em>Figura 16: Local de troca do coração do dragão lendário.</em>
 </p>
 
 ---
@@ -252,16 +274,17 @@ Se algum destes ainda estiver vivo, você não terá a platina:
 
 ---
 
-## 💾 13. O Checkpoint dos Finais (BACKUP DO SAVE)
-**ATENÇÃO CAÇADOR DE PLATINA:** Após derrotar a Fera Elden, você estará na plataforma de pedra com a deusa Marika estilhaçada e uma Graça. **NÃO INTERAJA COM NADA AINDA!**
+## 💾 13. Backup do Save (The Final Step)
+**IMPORTANTE:** Após derrotar a Fera Elden, descanse na Graça dentro da Árvore. **NÃO TOQUE NA ESTÁTUA.**
 
-* **Procedimento:** Descanse na Graça e saia do jogo. Faça o backup do seu save (na nuvem do PlayStation/Xbox ou copiando a pasta de save no PC).
-* **Objetivo:** Com o backup feito, você pode recarregar o mesmo ponto para fazer os 3 finais exigidos pela Platina sem precisar jogar o jogo inteiro mais duas vezes (NG+ e NG++).
+1. Saia do jogo.
+2. Faça o backup do Save.
+3. Recarregue para fazer os finais: **Era das Estrelas (Ranni)**, **Lorde da Chama Frenética** e **Lorde Elden**.
 
 <p align="center">
-    <img src="assets/ashen_capital_16.png" alt="Grace Final" width="600">
+    <img src="assets/ashen_capital_16.png" alt="Graça Final Backup" width="600">
     <br>
-    <em>Figura 6: O momento exato para fazer o backup do save antes de escolher o final.</em>
+    <em>Figura 17: O momento exato para o backup do save.</em>
 </p>
 
 ---
