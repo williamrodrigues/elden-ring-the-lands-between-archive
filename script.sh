@@ -16,6 +16,7 @@ diretories=(
     '13_mountaintops_of_the_giants'
     '14_miquellas_haligtree'
     '15_crumbling_farum_azula'
+    '16_ashen_capital'
 )
 
 # Create directories if they don't exist

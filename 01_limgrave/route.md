@@ -1,5 +1,10 @@
 # 📖 O Despertar do Maculado: Crônicas de Limgrave
 
+<p align="center">
+  <img src="assets/capa.png" alt="" width="600">
+  <br>
+</p>
+
 ## 🕯️ Notas de Preparação (Antes de Partir)
 
 Antes de cruzar a névoa para as Terras Intermédias, um Lorde deve esculpir sua imagem e assegurar seu poder.
@@ -66,25 +71,25 @@ Ao abrir as portas para Limgrave, a imensidão das Terras Intermédias se revela
 
 7.  **O Pacto do Destino:** Na "Frente do Portão", descanse. **Melina** aparecerá para lhe oferecer um acordo. Aceite-o para invocar **Torrente**, seu leal corcel, e colete o **Mapa (Limgrave, Oeste)** e a **Faca de Amolar** no acampamento vizinho.
 <p align="center">
-  <img src="assets/limgrave_05.png" alt="" width="600">
+  <img src="assets/limgrave_05.png" alt="" width="475">
   <br>
   <em>Figura 5: Localizacao do Mapa (Limgrave, Oeste), para mostrar a àrea</em>
 </p>
 
 <p align="center">
-  <img src="assets/limgrave_06.png" alt="" width="600">
+  <img src="assets/limgrave_06.png" alt="" width="475">
   <br>
   <em>Figura 6: Falar com a Melina para aceitar o acordo para ela ser a donzela dos dedos</em>
 </p>
 
 <p align="center">
-  <img src="assets/limgrave_07.png" alt="" width="600">
+  <img src="assets/limgrave_07.png" alt="" width="475">
   <br>
   <em>Figura 7: Pegar faca de amolar</em>
 </p>
 
 8.  **A Bruxa da Lua:** Retorne à Igreja de Elleh sob o manto da noite. A bruxa **Renna** o aguarda para entregar o Sino de Invocação Espiritual.
-> **Aviso de Sincronia:** Ao realizar o teleporte (viagem rápida), o jogo pode resetar o horário para o período diurno. Caso a bruxa não esteja presente, descanse na Graça e selecione **"Passar o tempo" -> "Até o anoitecer"**.
+> **Aviso de Sincronia:** Ao realizar o teleporte (viagem rápida), o jogo pode resetar o horário para o período diurno. Caso a bruxa não esteja presente, descanse na Graça e selecione **"Passar o tempo" -> "Até o anoitecer"**, em alguns caos pode ser que tenha que teleportar para outra graça mudar para noite e voltar para a igreja.
 <p align="center">
   <img src="assets/limgrave_08.png" alt="" width="600">
   <br>

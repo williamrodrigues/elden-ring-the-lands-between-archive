@@ -1,0 +1,12 @@
+{
+    "markdown-pdf.margin.bottom": "1.5cm",
+    "markdown-pdf.margin.left": "0.5cm",
+    "markdown-pdf.margin.right": "0.5cm",
+    "markdown-pdf.margin.top": "0.5cm",
+    "markdown-pdf.displayHeaderFooter": true,
+    "markdown-pdf.headerTemplate": "",
+    "markdown-pdf.footerTemplate": "<div style='font-size: 10px; margin: 0 auto; text-align: center;'><span class='pageNumber'></span> / <span class='totalPages'></span></div>","markdown-pdf.styles": [
+        "body { font-size: 12px; }"
+    ],
+    "editor.indentSize": "tabSize"
+}
