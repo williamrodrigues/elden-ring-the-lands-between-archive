@@ -313,7 +313,7 @@ Como resultado da escolha no Passo 15, o corpo de Moore pode ser encontrado.
 
 ---
 
-## 21. Talismã da Pedra Quebrada (Vilarejo Bonny)
+## 🪨 21. Talismã da Pedra Quebrada (Vilarejo Bonny)
 Aproveite a descida para o Vilarejo Bonny após passar pelo NPC do pote.
 
 * **Descrição:** Atravesse a primeira ponte de corda no Vilarejo Bonny; o item está em um corpo logo à frente.
@@ -323,91 +323,166 @@ Aproveite a descida para o Vilarejo Bonny após passar pelo NPC do pote.
 <p align="center">
     <img src="../inventory/talismans/stat_boost/20_broken_stone_talisman_loc.png" alt="Broken Stone Talisman" width="600">
     <br>
-    <em>Figura 11b: Item essencial para builds de combate corpo a corpo.</em>
+    <em>Figura 21: Item essencial para builds de combate corpo a corpo.</em>
 </p>
 
 --- 
 
-## 22. Encantamento Arcos de Ouro
-O encantamento **Arcos de Ouro** (*Golden Arcs*) é um dos primeiros feitiços dos "Cornigulados" que encontramos. Seguindo a sua estrutura de pastas, ele deve ser classificado como um encantamento de **ataque direto**.
-* **Item:** Arcos de Ouro (*Golden Arcs*).
-* **Categoria:** Encantamento de Ofensiva (Offense).
-* **Localização:** Nas **Ruínas do Templo** (*Temple Town Ruins*), dentro de um baú em uma sala acessível por um telhado.
-* **Descrição:** Dispara arcos de luz dourada em sucessão. É excelente para controle de grupo no início da DLC.
+## 💫 22. Encantamento: Arcos de Ouro
+O encantamento **Arcos de Ouro** (*Golden Arcs*) é um dos primeiros feitiços dos "Cornigulados".
+
+* **Descrição:** Dispara arcos de luz dourada em sucessão. Excelente para controle de grupo.
+* **Localização:** Nas **Ruínas do Templo** (*Temple Town Ruins*), dentro de um baú.
 * **Requisito:** 12 de Fé.
 
 <p align="center">
-    <img src="../inventory/incantations/20_golden_arcs_loc.png" alt="" width="600">
+    <img src="../inventory/incantations/20_golden_arcs_loc.png" alt="Golden Arcs Location" width="600">
     <br>
-    <em>Figura : .</em>
+    <em>Figura 22: Localização do feitiço ofensivo nas Ruínas do Templo.</em>
 </p>
 
 --- 
 
-## 23. ativando graca do vilarejo Bonny
-intro
-* **Descrição:** 
-* **NPCs:** 
-* **Item:** 
+## 🏘️ 23. Ativando Graça: Vilarejo Bonny
+Ponto de descanso central para explorar as valas de "recheio de potes".
+
+* **Descrição:** Localizada logo após atravessar a primeira ponte de corda vindo das Ruínas de Moorth.
 
 <p align="center">
-    <img src="assets/scadu_altus_15.png" alt="" width="600">
+    <img src="assets/scadu_altus_15.png" alt="Graça Vilarejo Bonny" width="600">
     <br>
-    <em>Figura : .</em>
+    <em>Figura 23: Ponto de controle seguro dentro da vila.</em>
 </p>
 
 --- 
 
-## 24. Coletar gesto Ó, Mãe
-intro
-* **Descrição:** 
-* **NPCs:** 
-* **Item:** 
+## 🙏 24. Coleta: Gesto "Ó, Mãe"
+Um dos itens mais importantes para o *late game* da DLC.
+
+* **Descrição:** Encontrado em um corpo ajoelhado em frente a uma estátua ao norte do vilarejo.
+* **Uso:** Essencial para abrir a estátua secreta no Castelo das Sombras mais tarde.
 
 <p align="center">
-    <img src="assets/scadu_altus_16.png" alt="" width="600">
+    <img src="assets/scadu_altus_16.png" alt="Gesto Ó Mãe" width="600">
     <br>
-    <em>Figura : item.</em>
+    <em>Figura 24a: Coleta do gesto ritualístico.</em>
 </p>
 
 <p align="center">
-    <img src="assets/scadu_altus_17.png" alt="" width="600">
+    <img src="assets/scadu_altus_17.png" alt="Localização Gesto" width="600">
     <br>
-    <em>Figura : localizacao.</em>
+    <em>Figura 24b: Posição exata do corpo com o item.</em>
 </p>
 
 --- 
 
-## 25. Coleta de itens...
-intro
-* **Descrição:** 
-* **NPCs:** 
-* **Item:** (2) potes pesados, cinza espritual reverenciada, faca do acogueiro de bonny, chicote dentado
+## 🔪 25. Limpeza de Área: Loot do Vilarejo
+Itens espalhados pelas áreas de "preparação" dos potes.
+
+* **Itens:** (2) Potes Pesados, Cinza Espiritual Reverenciada, Faca do Açougueiro de Bonny, Chicote Dentado.
+* **Faca do Açougueiro:** Ótima para sustain (recupera HP por acerto).
+* **Chicote Dentado:** Causa acúmulo de Veneno.
 
 <p align="center">
-    <img src="assets/scadu_altus_.png" alt="" width="600">
+    <img src="../inventory/upgrade_materials/revered_spirit_ash/20_rever_ash_06_loc.png" alt="Cinza Reverenciada" width="600">
     <br>
-    <em>Figura : .</em>
+    <em>Figura 25a: Localização da Cinza Espiritual Reverenciada.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/weapons/greatswords/20_bonny_butchering_knife_loc.png" alt="Faca Açougueiro" width="600">
+    <br>
+    <em>Figura 25b: Local de coleta da Faca do Açougueiro de Bonny.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/weapons/whips/20_tooth_whip_loc.png" alt="Chicote Dentado" width="600">
+    <br>
+    <em>Figura 25c: Chicote Dentado encontrado na cabana de tortura.</em>
+</p>
+
+---
+
+## 26. Entrada pelo Distrito da Igreja e Drenagem
+Esta rota alternativa pelo lado leste da fortaleza permite acessar áreas que estão submersas e o fundo do Armazém de Espécimes.
+
+* **Descrição:** Avance pela rampa lateral da fortaleza até encontrar o Distrito da Igreja. O objetivo principal aqui é realizar o parkour pelos telhados para alcançar a alavanca central que drena a água de toda a área.
+* **NPCs:** Nenhum (Inimigos: Criaturas do pântano e Cavaleiros de Fogo).
+* **Gracas:** Ponte do Vilarejo, Estrada Principal (Distrito da Igreja), Entrada do Distrito da Igreja.
+
+<p align="center">
+    <img src="assets/scadu_altus_18.png" alt="Entrada Distrito Igreja" width="600">
+    <br>
+    <em>Figura 26a: Caminho pela rampa lateral até a graça de entrada do distrito.</em>
+</p>
+
+<p align="center">
+    <img src="assets/scadu_altus_20.png" alt="Caminho Alavanca" width="600">
+    <br>
+    <em>Figura 26b: Trajeto pelos telhados para evitar a água contaminada.</em>
+</p>
+
+<p align="center">
+    <img src="assets/scadu_altus_19.png" alt="Drenagem Água" width="600">
+    <br>
+    <em>Figura 26c: Acionamento da alavanca para revelar o nível inferior do distrito.</em>
+</p>
+
+--- 
+
+## 27. Fragmento de Umbrárvore: Estátua de Marika
+Com a água drenada, novas áreas de coleta são reveladas no nível inferior do Distrito da Igreja.
+
+* **Descrição:** Localizado nas mãos de uma estátua de Marika submersa (agora acessível) no pátio principal do distrito.
+* **Item:** **Fragmento de Umbrárvore (1)**.
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/21_location_20_loc.png" alt="Local Fragmento Marika" width="600">
+    <br>
+    <em>Figura 27a: Localização da estátua após a drenagem.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/21_location_20_item.png" alt="Coleta Fragmento" width="600">
+    <br>
+    <em>Figura 27b: Upgrade essencial coletado na base da estátua.</em>
+</p>
+
+--- 
+
+## 28. Selo do Cavaleiro de Fogo
+Um catalisador poderoso para quem utiliza encantamentos de fogo de Messmer.
+
+* **Descrição:** Localizado em uma das salas laterais do Distrito da Igreja, após descer pelos elevadores ou escadas reveladas pela drenagem.
+* **Categoria:** `stat_boost` (Potencializa encantamentos de fogo).
+* **Item:** **Selo do Cavaleiro de Fogo** (Fire Knight's Seal).
+
+<p align="center">
+    <img src="../inventory/talismans/stat_boost/21_fire_knight_seal_loc.png" alt="Local Selo Cavaleiro" width="600">
+    <br>
+    <em>Figura 28a: Sala de tesouro no nível inferior do distrito.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/talismans/stat_boost/21_fire_knight_seal_item.png" alt="Item Selo Cavaleiro" width="600">
+    <br>
+    <em>Figura 28b: Selo sagrado que escala com Fé.</em>
+</p>
+
+--- 
+
+## 29. Graça: Armazém, Parte de Trás
+O ponto de conexão final que leva à subida para o topo do castelo e para as Ruínas de Dedos.
+
+* **Descrição:** Após explorar o Distrito da Igreja, utilize o elevador para subir até a seção posterior do Armazém de Espécimes.
+* **Graca:** Armazém, Parte de Trás (Storehouse, Back Section).
+
+<p align="center">
+    <img src="assets/scadu_altus_21.png" alt="Graca Parte de Tras" width="600">
+    <br>
+    <em>Figura 29: Conexão estabelecida com a parte interna da fortaleza.</em>
 </p>
 
 --- 
 
 [⬅️ Voltar para o README.md](../README.md) | [Prosseguir para o Castelo das Sombras ➡️](../21_shadow_keep/route.md)
-
-
-<!-- 
-
-## 
-intro
-* **Descrição:** 
-* **NPCs:** 
-* **Item:** 
-
-<p align="center">
-    <img src="assets/scadu_altus_.png" alt="" width="600">
-    <br>
-    <em>Figura : .</em>
-</p>
-
---- 
--->
