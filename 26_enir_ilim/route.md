@@ -71,14 +71,196 @@ Certifique-se de ter derrotado **Midra** e explorado a mansão completamente. Em
 
 ---
 
-## 03
+## 03. fragmento de umbravore na graca torre espiral
 intro
 * **Descrição:** 
 * **NPCs:** 
 * **Item:** 
 
 <p align="center">
-    <img src="assets/enir_ilim_.png" alt="" width="600">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/26_location_37_loc.png" alt="" width="600">
+    <br>
+    <em>Figura : localizacao.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/26_location_37_item.png" alt="" width="600">
+    <br>
+    <em>Figura : item.</em>
+</p>
+
+--- 
+
+## 04. fragmento de umbravore por um caminho secreto descenco as escada pelo cantos saindo da graca torre espiral
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/26_location_38_loc.png" alt="" width="600">
+    <br>
+    <em>Figura : localizacao.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/26_location_38_item.png" alt="" width="600">
+    <br>
+    <em>Figura : item.</em>
+</p>
+
+--- 
+
+## 05. Arma euporia seguindo o caminho, descendo 2 elevadores depois de pegar o fragmento de umbravore
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="../inventory/weapons/twinblades/26_euporia_loc.png" alt="" width="600">
+    <br>
+    <em>Figura : localizacao.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/weapons/twinblades/26_euporia_item.png" alt="" width="600">
+    <br>
+    <em>Figura : item.</em>
+</p>
+
+--- 
+
+## 06. fragmento de umbravore subindo pelos telhados a partir da graca torre espiral num altar
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/26_location_39_loc.png" alt="" width="600">
+    <br>
+    <em>Figura : .</em>
+</p> 
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/26_location_39_item.png" alt="" width="600">
+    <br>
+    <em>Figura : .</em>
+</p>
+
+--- 
+
+## 07. Espada grande do guerreiro com chifres derrotando o guerreiro na ponte antes da graca, pode ir correndo ate a graca antessala da camara de purificacao e depois lutar com ele
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="../inventory/weapons/curved_greatswords/26_horned_warrior_gs_loc.png" alt="" width="600">
+    <br>
+    <em>Figura : locallizacao .</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/weapons/curved_greatswords/26_horned_warrior_gs_item.png" alt="" width="600">
+    <br>
+    <em>Figura : item .</em>
+</p>
+
+--- 
+
+## 08. fragmento de umbravore proxima da graca antessala da camara de purificacao 
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/26_location_40_loc.png" alt="" width="600">
+    <br>
+    <em>Figura : localizacao.</em>
+</p>
+
+<p align="center">
+    <img src="../inventory/upgrade_materials/scadutree_fragment/26_location_40_item.png" alt="" width="600">
+    <br>
+    <em>Figura : item.</em>
+</p>
+
+--- 
+
+## 09. Subindo para a camara encontrara a Leda, tera que lutar contra ela e pode invocar o Thioller e sr. Ansbach
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="assets/enir_ilim_08.png" alt="" width="600">
+    <br>
+    <em>Figura : entrada da camara e leda em pé.</em>
+</p>
+
+<p align="center">
+    <img src="assets/enir_ilim_09.png" alt="" width="600">
+    <br>
+    <em>Figura : sinais de invocacao para luta.</em>
+</p>
+
+--- 
+
+## 10. Espada da leda apos derrotar ela
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="assets/enir_ilim_10.png" alt="" width="600">
+    <br>
+    <em>Figura : .</em>
+</p>
+
+--- 
+
+## 11. Encontraremos a Freyja e o Dane(com seu movimentos dos pes)
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="assets/enir_ilim_11.png" alt="" width="600">
+    <br>
+    <em>Figura : .</em>
+</p>
+
+--- 
+
+## 12. Leda deitada com drop da sua roupa
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="assets/enir_ilim_12.png" alt="" width="600">
+    <br>
+    <em>Figura : .</em>
+</p>
+
+--- 
+
+## 13. subindo as escadas enfrentaremos o jovem Radan podendo invocar o Thioller e Sr. Ansbach
+intro
+* **Descrição:** 
+* **NPCs:** 
+* **Item:** 
+
+<p align="center">
+    <img src="assets/enir_ilim_13.png" alt="" width="600">
     <br>
     <em>Figura : .</em>
 </p>
